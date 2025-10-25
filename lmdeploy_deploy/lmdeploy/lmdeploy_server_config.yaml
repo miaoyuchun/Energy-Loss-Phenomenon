@@ -1,0 +1,50 @@
+# Server Configuration
+server:
+  name: '0.0.0.0'   # Host IP for serving
+  port: 6007        # Server port
+
+model:
+  path: '/path/to/SFT/model'
+  name: 'llama-2-7b'
+
+backend:
+  type: 'turbomind'  # Backend type: [turbomind or pytorch] [vllm] [inferflow] [TGI] [TritonRT-LLM]
+  config: lmdeploy_deploy/lmdeploy/backend_config.yaml       # Specific configuration for the chosen backend
+
+tensor_paral:
+  gpus: 1
+
+chat_template:
+  config: null       # Chat template configuration details
+  
+rag:
+  is_rag_engine: true
+
+# Logging Configuration
+logging:
+  level: 'INFO'     # Log level: CRITICAL, ERROR, WARNING, INFO, DEBUG
+
+# API Key Configuration
+api_keys:
+  keys: null         # List of API keys or a single API key string
+
+# CORS Configuration
+cors:
+  allow_origins:
+    - '*'            # List of allowed origins
+  allow_credentials: true
+  allow_methods:
+    - '*'            # List of allowed HTTP methods
+  allow_headers:
+    - '*'            # List of allowed HTTP headers
+
+# SSL Configuration
+ssl:
+  enabled: false     # Enable SSL, requires SSL_KEYFILE and SSL_CERTFILE
+
+# Quality of Service Configuration
+qos:
+  config_path: ''    # Path to Quality of Service policy configuration
+
+# Additional Parameters (can be extended as needed)
+additional_params: {}

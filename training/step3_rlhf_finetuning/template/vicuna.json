@@ -1,0 +1,12 @@
+[{
+    "prompt_input_chosen": "{sys_prompt} USER: {instruction} {input} ASSISTANT: {output}",
+    "prompt_no_input_chosen": "{sys_prompt} USER: {instruction} ASSISTANT: {output}",
+    "prompt_input_instruct": "{sys_prompt} USER: {instruction} {input} ASSISTANT: ",
+    "prompt_no_input_instruct": "{sys_prompt} USER: {instruction} ASSISTANT: "
+},
+{
+    "prompt_input_chosen": "{sys_prompt} USER: {instruction} {demonstrations} {input} ASSISTANT: {output}",
+    "prompt_no_input_chosen": "{sys_prompt} USER: {instruction} {demonstrations} ASSISTANT: {output}",
+    "prompt_input_instruct": "{sys_prompt} USER: {instruction} {demonstrations} {input} ASSISTANT: ",
+    "prompt_no_input_instruct": "{sys_prompt} USER: {instruction} {demonstrations} ASSISTANT: "
+}]

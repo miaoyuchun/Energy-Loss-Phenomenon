@@ -1,0 +1,2 @@
+session_len: 4000
+max_batch_size: 128    #控制slot槽数量

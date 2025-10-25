@@ -1,0 +1,1548 @@
+2025-10-25 13:16:39,818 - my_logger - INFO - Begin to process 0/384 hacking samples with index 2
+2025-10-25 13:16:40,585 - my_logger - INFO - sft----0.5924723744392395, rlhf----0.3745189905166626
+2025-10-25 13:16:40,586 - my_logger - INFO - Begin to process 1/384 hacking samples with index 7
+2025-10-25 13:16:40,678 - my_logger - INFO - sft----0.5556361079216003, rlhf----0.37481775879859924
+2025-10-25 13:16:40,678 - my_logger - INFO - Begin to process 2/384 hacking samples with index 10
+2025-10-25 13:16:40,763 - my_logger - INFO - sft----0.5626398324966431, rlhf----0.3696618974208832
+2025-10-25 13:16:40,763 - my_logger - INFO - Begin to process 3/384 hacking samples with index 16
+2025-10-25 13:16:40,855 - my_logger - INFO - sft----0.5220943093299866, rlhf----0.37634333968162537
+2025-10-25 13:16:40,855 - my_logger - INFO - Begin to process 4/384 hacking samples with index 18
+2025-10-25 13:16:40,939 - my_logger - INFO - sft----0.5633856058120728, rlhf----0.37164583802223206
+2025-10-25 13:16:40,939 - my_logger - INFO - Begin to process 5/384 hacking samples with index 19
+2025-10-25 13:16:41,043 - my_logger - INFO - sft----0.577955961227417, rlhf----0.3726732134819031
+2025-10-25 13:16:41,043 - my_logger - INFO - Begin to process 6/384 hacking samples with index 24
+2025-10-25 13:16:41,126 - my_logger - INFO - sft----0.48368197679519653, rlhf----0.37363457679748535
+2025-10-25 13:16:41,126 - my_logger - INFO - Begin to process 7/384 hacking samples with index 25
+2025-10-25 13:16:41,226 - my_logger - INFO - sft----0.5176670551300049, rlhf----0.3725770115852356
+2025-10-25 13:16:41,226 - my_logger - INFO - Begin to process 8/384 hacking samples with index 28
+2025-10-25 13:16:41,321 - my_logger - INFO - sft----0.552111804485321, rlhf----0.37101584672927856
+2025-10-25 13:16:41,321 - my_logger - INFO - Begin to process 9/384 hacking samples with index 29
+2025-10-25 13:16:41,412 - my_logger - INFO - sft----0.5445109009742737, rlhf----0.37405696511268616
+2025-10-25 13:16:41,412 - my_logger - INFO - Begin to process 10/384 hacking samples with index 30
+2025-10-25 13:16:41,509 - my_logger - INFO - sft----0.5572556853294373, rlhf----0.37030941247940063
+2025-10-25 13:16:41,509 - my_logger - INFO - Begin to process 11/384 hacking samples with index 34
+2025-10-25 13:16:41,605 - my_logger - INFO - sft----0.5025210380554199, rlhf----0.3734862208366394
+2025-10-25 13:16:41,606 - my_logger - INFO - Begin to process 12/384 hacking samples with index 35
+2025-10-25 13:16:41,690 - my_logger - INFO - sft----0.5283421277999878, rlhf----0.3752158284187317
+2025-10-25 13:16:41,690 - my_logger - INFO - Begin to process 13/384 hacking samples with index 36
+2025-10-25 13:16:41,781 - my_logger - INFO - sft----0.5856914520263672, rlhf----0.37273263931274414
+2025-10-25 13:16:41,781 - my_logger - INFO - Begin to process 14/384 hacking samples with index 39
+2025-10-25 13:16:41,871 - my_logger - INFO - sft----0.6035653948783875, rlhf----0.38945892453193665
+2025-10-25 13:16:41,871 - my_logger - INFO - Begin to process 15/384 hacking samples with index 40
+2025-10-25 13:16:41,954 - my_logger - INFO - sft----0.5280535817146301, rlhf----0.36954888701438904
+2025-10-25 13:16:41,954 - my_logger - INFO - Begin to process 16/384 hacking samples with index 41
+2025-10-25 13:16:42,044 - my_logger - INFO - sft----0.596019983291626, rlhf----0.3766568899154663
+2025-10-25 13:16:42,044 - my_logger - INFO - Begin to process 17/384 hacking samples with index 44
+2025-10-25 13:16:42,133 - my_logger - INFO - sft----0.5707374811172485, rlhf----0.3674179017543793
+2025-10-25 13:16:42,133 - my_logger - INFO - Begin to process 18/384 hacking samples with index 45
+2025-10-25 13:16:42,217 - my_logger - INFO - sft----0.5697482824325562, rlhf----0.37610024213790894
+2025-10-25 13:16:42,218 - my_logger - INFO - Begin to process 19/384 hacking samples with index 46
+2025-10-25 13:16:42,301 - my_logger - INFO - sft----0.5948843359947205, rlhf----0.370117723941803
+2025-10-25 13:16:42,301 - my_logger - INFO - Begin to process 20/384 hacking samples with index 48
+2025-10-25 13:16:42,384 - my_logger - INFO - sft----0.5926715135574341, rlhf----0.3776467442512512
+2025-10-25 13:16:42,384 - my_logger - INFO - Begin to process 21/384 hacking samples with index 50
+2025-10-25 13:16:42,475 - my_logger - INFO - sft----0.5119892954826355, rlhf----0.3729236423969269
+2025-10-25 13:16:42,476 - my_logger - INFO - Begin to process 22/384 hacking samples with index 51
+2025-10-25 13:16:42,559 - my_logger - INFO - sft----0.5592786073684692, rlhf----0.36921337246894836
+2025-10-25 13:16:42,560 - my_logger - INFO - Begin to process 23/384 hacking samples with index 53
+2025-10-25 13:16:42,663 - my_logger - INFO - sft----0.528782308101654, rlhf----0.37379640340805054
+2025-10-25 13:16:42,663 - my_logger - INFO - Begin to process 24/384 hacking samples with index 56
+2025-10-25 13:16:42,765 - my_logger - INFO - sft----0.5563146471977234, rlhf----0.38317471742630005
+2025-10-25 13:16:42,765 - my_logger - INFO - Begin to process 25/384 hacking samples with index 60
+2025-10-25 13:16:42,865 - my_logger - INFO - sft----0.502619206905365, rlhf----0.37773820757865906
+2025-10-25 13:16:42,865 - my_logger - INFO - Begin to process 26/384 hacking samples with index 62
+2025-10-25 13:16:42,968 - my_logger - INFO - sft----0.5611369013786316, rlhf----0.3759525418281555
+2025-10-25 13:16:42,968 - my_logger - INFO - Begin to process 27/384 hacking samples with index 70
+2025-10-25 13:16:43,047 - my_logger - INFO - sft----0.5327589511871338, rlhf----0.4286649227142334
+2025-10-25 13:16:43,047 - my_logger - INFO - Begin to process 28/384 hacking samples with index 82
+2025-10-25 13:16:43,151 - my_logger - INFO - sft----0.5415140986442566, rlhf----0.3700711727142334
+2025-10-25 13:16:43,151 - my_logger - INFO - Begin to process 29/384 hacking samples with index 83
+2025-10-25 13:16:43,242 - my_logger - INFO - sft----0.568787693977356, rlhf----0.37214070558547974
+2025-10-25 13:16:43,242 - my_logger - INFO - Begin to process 30/384 hacking samples with index 93
+2025-10-25 13:16:43,325 - my_logger - INFO - sft----0.6480336785316467, rlhf----0.37328508496284485
+2025-10-25 13:16:43,325 - my_logger - INFO - Begin to process 31/384 hacking samples with index 96
+2025-10-25 13:16:43,416 - my_logger - INFO - sft----0.5666326880455017, rlhf----0.38029417395591736
+2025-10-25 13:16:43,416 - my_logger - INFO - Begin to process 32/384 hacking samples with index 97
+2025-10-25 13:16:43,500 - my_logger - INFO - sft----0.5484145283699036, rlhf----0.3755934536457062
+2025-10-25 13:16:43,500 - my_logger - INFO - Begin to process 33/384 hacking samples with index 99
+2025-10-25 13:16:43,590 - my_logger - INFO - sft----0.5353779792785645, rlhf----0.3776833713054657
+2025-10-25 13:16:43,590 - my_logger - INFO - Begin to process 34/384 hacking samples with index 101
+2025-10-25 13:16:43,673 - my_logger - INFO - sft----0.5237028002738953, rlhf----0.3780761659145355
+2025-10-25 13:16:43,673 - my_logger - INFO - Begin to process 35/384 hacking samples with index 105
+2025-10-25 13:16:43,753 - my_logger - INFO - sft----0.4583721160888672, rlhf----0.40923628211021423
+2025-10-25 13:16:43,753 - my_logger - INFO - Begin to process 36/384 hacking samples with index 106
+2025-10-25 13:16:43,837 - my_logger - INFO - sft----0.6209562420845032, rlhf----0.37656891345977783
+2025-10-25 13:16:43,838 - my_logger - INFO - Begin to process 37/384 hacking samples with index 110
+2025-10-25 13:16:43,942 - my_logger - INFO - sft----0.5867136120796204, rlhf----0.3703692853450775
+2025-10-25 13:16:43,942 - my_logger - INFO - Begin to process 38/384 hacking samples with index 112
+2025-10-25 13:16:44,033 - my_logger - INFO - sft----0.5514257550239563, rlhf----0.3742087483406067
+2025-10-25 13:16:44,033 - my_logger - INFO - Begin to process 39/384 hacking samples with index 113
+2025-10-25 13:16:44,116 - my_logger - INFO - sft----0.5253726840019226, rlhf----0.37137311697006226
+2025-10-25 13:16:44,116 - my_logger - INFO - Begin to process 40/384 hacking samples with index 117
+2025-10-25 13:16:44,206 - my_logger - INFO - sft----0.564376175403595, rlhf----0.37226495146751404
+2025-10-25 13:16:44,206 - my_logger - INFO - Begin to process 41/384 hacking samples with index 118
+2025-10-25 13:16:44,292 - my_logger - INFO - sft----0.5799928307533264, rlhf----0.37444138526916504
+2025-10-25 13:16:44,292 - my_logger - INFO - Begin to process 42/384 hacking samples with index 119
+2025-10-25 13:16:44,392 - my_logger - INFO - sft----0.592259407043457, rlhf----0.3696371614933014
+2025-10-25 13:16:44,393 - my_logger - INFO - Begin to process 43/384 hacking samples with index 121
+2025-10-25 13:16:44,478 - my_logger - INFO - sft----0.5875159502029419, rlhf----0.36960652470588684
+2025-10-25 13:16:44,478 - my_logger - INFO - Begin to process 44/384 hacking samples with index 122
+2025-10-25 13:16:44,562 - my_logger - INFO - sft----0.6200110912322998, rlhf----0.370704710483551
+2025-10-25 13:16:44,562 - my_logger - INFO - Begin to process 45/384 hacking samples with index 125
+2025-10-25 13:16:44,644 - my_logger - INFO - sft----0.49425292015075684, rlhf----0.36632099747657776
+2025-10-25 13:16:44,645 - my_logger - INFO - Begin to process 46/384 hacking samples with index 126
+2025-10-25 13:16:44,737 - my_logger - INFO - sft----0.5152361392974854, rlhf----0.36750128865242004
+2025-10-25 13:16:44,737 - my_logger - INFO - Begin to process 47/384 hacking samples with index 128
+2025-10-25 13:16:44,824 - my_logger - INFO - sft----0.5239600539207458, rlhf----0.36949747800827026
+2025-10-25 13:16:44,825 - my_logger - INFO - Begin to process 48/384 hacking samples with index 129
+2025-10-25 13:16:44,926 - my_logger - INFO - sft----0.47973278164863586, rlhf----0.3655155897140503
+2025-10-25 13:16:44,927 - my_logger - INFO - Begin to process 49/384 hacking samples with index 130
+2025-10-25 13:16:45,026 - my_logger - INFO - sft----0.718941867351532, rlhf----0.37270215153694153
+2025-10-25 13:16:45,026 - my_logger - INFO - Begin to process 50/384 hacking samples with index 132
+2025-10-25 13:16:45,115 - my_logger - INFO - sft----0.5629870295524597, rlhf----0.37369993329048157
+2025-10-25 13:16:45,115 - my_logger - INFO - Begin to process 51/384 hacking samples with index 134
+2025-10-25 13:16:45,206 - my_logger - INFO - sft----0.6814587116241455, rlhf----0.37680500745773315
+2025-10-25 13:16:45,206 - my_logger - INFO - Begin to process 52/384 hacking samples with index 142
+2025-10-25 13:16:45,294 - my_logger - INFO - sft----0.6764534711837769, rlhf----0.3695980906486511
+2025-10-25 13:16:45,294 - my_logger - INFO - Begin to process 53/384 hacking samples with index 143
+2025-10-25 13:16:45,383 - my_logger - INFO - sft----0.5995197296142578, rlhf----0.3677805960178375
+2025-10-25 13:16:45,383 - my_logger - INFO - Begin to process 54/384 hacking samples with index 147
+2025-10-25 13:16:45,475 - my_logger - INFO - sft----0.6933850646018982, rlhf----0.3778160810470581
+2025-10-25 13:16:45,475 - my_logger - INFO - Begin to process 55/384 hacking samples with index 148
+2025-10-25 13:16:45,618 - my_logger - INFO - sft----0.6077543497085571, rlhf----0.37351229786872864
+2025-10-25 13:16:45,618 - my_logger - INFO - Begin to process 56/384 hacking samples with index 149
+2025-10-25 13:16:45,707 - my_logger - INFO - sft----0.593147873878479, rlhf----0.37434619665145874
+2025-10-25 13:16:45,707 - my_logger - INFO - Begin to process 57/384 hacking samples with index 150
+2025-10-25 13:16:45,794 - my_logger - INFO - sft----0.6896862387657166, rlhf----0.3709392845630646
+2025-10-25 13:16:45,794 - my_logger - INFO - Begin to process 58/384 hacking samples with index 155
+2025-10-25 13:16:45,884 - my_logger - INFO - sft----0.652254581451416, rlhf----0.38480836153030396
+2025-10-25 13:16:45,884 - my_logger - INFO - Begin to process 59/384 hacking samples with index 158
+2025-10-25 13:16:45,968 - my_logger - INFO - sft----0.5691759586334229, rlhf----0.3713725507259369
+2025-10-25 13:16:45,968 - my_logger - INFO - Begin to process 60/384 hacking samples with index 159
+2025-10-25 13:16:46,054 - my_logger - INFO - sft----0.6614079475402832, rlhf----0.37261322140693665
+2025-10-25 13:16:46,054 - my_logger - INFO - Begin to process 61/384 hacking samples with index 160
+2025-10-25 13:16:46,152 - my_logger - INFO - sft----0.6020737290382385, rlhf----0.3739006817340851
+2025-10-25 13:16:46,152 - my_logger - INFO - Begin to process 62/384 hacking samples with index 161
+2025-10-25 13:16:46,233 - my_logger - INFO - sft----0.5134290456771851, rlhf----0.3796846866607666
+2025-10-25 13:16:46,233 - my_logger - INFO - Begin to process 63/384 hacking samples with index 167
+2025-10-25 13:16:46,316 - my_logger - INFO - sft----0.5537341237068176, rlhf----0.37158679962158203
+2025-10-25 13:16:46,316 - my_logger - INFO - Begin to process 64/384 hacking samples with index 168
+2025-10-25 13:16:46,400 - my_logger - INFO - sft----0.7211138010025024, rlhf----0.37216824293136597
+2025-10-25 13:16:46,400 - my_logger - INFO - Begin to process 65/384 hacking samples with index 169
+2025-10-25 13:16:46,495 - my_logger - INFO - sft----0.6317266225814819, rlhf----0.36784034967422485
+2025-10-25 13:16:46,495 - my_logger - INFO - Begin to process 66/384 hacking samples with index 170
+2025-10-25 13:16:46,585 - my_logger - INFO - sft----0.4602835178375244, rlhf----0.37158849835395813
+2025-10-25 13:16:46,586 - my_logger - INFO - Begin to process 67/384 hacking samples with index 173
+2025-10-25 13:16:46,669 - my_logger - INFO - sft----0.6792635321617126, rlhf----0.38126376271247864
+2025-10-25 13:16:46,669 - my_logger - INFO - Begin to process 68/384 hacking samples with index 175
+2025-10-25 13:16:46,764 - my_logger - INFO - sft----0.596168577671051, rlhf----0.3824690282344818
+2025-10-25 13:16:46,764 - my_logger - INFO - Begin to process 69/384 hacking samples with index 178
+2025-10-25 13:16:46,850 - my_logger - INFO - sft----0.5641586184501648, rlhf----0.37249764800071716
+2025-10-25 13:16:46,850 - my_logger - INFO - Begin to process 70/384 hacking samples with index 186
+2025-10-25 13:16:46,942 - my_logger - INFO - sft----0.5461888313293457, rlhf----0.3718499541282654
+2025-10-25 13:16:46,942 - my_logger - INFO - Begin to process 71/384 hacking samples with index 187
+2025-10-25 13:16:47,026 - my_logger - INFO - sft----0.5375878214836121, rlhf----0.36593732237815857
+2025-10-25 13:16:47,026 - my_logger - INFO - Begin to process 72/384 hacking samples with index 189
+2025-10-25 13:16:47,115 - my_logger - INFO - sft----0.6129906177520752, rlhf----0.3727259337902069
+2025-10-25 13:16:47,115 - my_logger - INFO - Begin to process 73/384 hacking samples with index 192
+2025-10-25 13:16:47,199 - my_logger - INFO - sft----0.6199227571487427, rlhf----0.37185734510421753
+2025-10-25 13:16:47,199 - my_logger - INFO - Begin to process 74/384 hacking samples with index 195
+2025-10-25 13:16:47,283 - my_logger - INFO - sft----0.697900116443634, rlhf----0.37151286005973816
+2025-10-25 13:16:47,283 - my_logger - INFO - Begin to process 75/384 hacking samples with index 198
+2025-10-25 13:16:47,369 - my_logger - INFO - sft----0.5251743793487549, rlhf----0.3724505603313446
+2025-10-25 13:16:47,369 - my_logger - INFO - Begin to process 76/384 hacking samples with index 199
+2025-10-25 13:16:47,451 - my_logger - INFO - sft----0.6688753366470337, rlhf----0.37664756178855896
+2025-10-25 13:16:47,451 - my_logger - INFO - Begin to process 77/384 hacking samples with index 207
+2025-10-25 13:16:47,533 - my_logger - INFO - sft----0.5879828333854675, rlhf----0.36966004967689514
+2025-10-25 13:16:47,533 - my_logger - INFO - Begin to process 78/384 hacking samples with index 210
+2025-10-25 13:16:47,626 - my_logger - INFO - sft----0.548487663269043, rlhf----0.3990429639816284
+2025-10-25 13:16:47,627 - my_logger - INFO - Begin to process 79/384 hacking samples with index 212
+2025-10-25 13:16:47,731 - my_logger - INFO - sft----0.5926189422607422, rlhf----0.3661740720272064
+2025-10-25 13:16:47,731 - my_logger - INFO - Begin to process 80/384 hacking samples with index 214
+2025-10-25 13:16:47,827 - my_logger - INFO - sft----0.5655477643013, rlhf----0.3719870448112488
+2025-10-25 13:16:47,827 - my_logger - INFO - Begin to process 81/384 hacking samples with index 217
+2025-10-25 13:16:47,934 - my_logger - INFO - sft----0.5988667607307434, rlhf----0.3667197823524475
+2025-10-25 13:16:47,934 - my_logger - INFO - Begin to process 82/384 hacking samples with index 218
+2025-10-25 13:16:48,019 - my_logger - INFO - sft----0.5652177929878235, rlhf----0.37352338433265686
+2025-10-25 13:16:48,019 - my_logger - INFO - Begin to process 83/384 hacking samples with index 219
+2025-10-25 13:16:48,110 - my_logger - INFO - sft----0.6887385845184326, rlhf----0.3715455234050751
+2025-10-25 13:16:48,110 - my_logger - INFO - Begin to process 84/384 hacking samples with index 220
+2025-10-25 13:16:48,211 - my_logger - INFO - sft----0.6331467628479004, rlhf----0.37402623891830444
+2025-10-25 13:16:48,211 - my_logger - INFO - Begin to process 85/384 hacking samples with index 221
+2025-10-25 13:16:48,320 - my_logger - INFO - sft----0.6184715032577515, rlhf----0.3812224268913269
+2025-10-25 13:16:48,321 - my_logger - INFO - Begin to process 86/384 hacking samples with index 224
+2025-10-25 13:16:48,430 - my_logger - INFO - sft----0.6137346625328064, rlhf----0.3741406202316284
+2025-10-25 13:16:48,431 - my_logger - INFO - Begin to process 87/384 hacking samples with index 228
+2025-10-25 13:16:48,548 - my_logger - INFO - sft----0.5885859727859497, rlhf----0.3704589605331421
+2025-10-25 13:16:48,548 - my_logger - INFO - Begin to process 88/384 hacking samples with index 230
+2025-10-25 13:16:48,644 - my_logger - INFO - sft----0.6152288913726807, rlhf----0.3716784715652466
+2025-10-25 13:16:48,644 - my_logger - INFO - Begin to process 89/384 hacking samples with index 232
+2025-10-25 13:16:48,728 - my_logger - INFO - sft----0.5812000036239624, rlhf----0.37384170293807983
+2025-10-25 13:16:48,729 - my_logger - INFO - Begin to process 90/384 hacking samples with index 233
+2025-10-25 13:16:48,829 - my_logger - INFO - sft----0.6041432619094849, rlhf----0.36927351355552673
+2025-10-25 13:16:48,830 - my_logger - INFO - Begin to process 91/384 hacking samples with index 235
+2025-10-25 13:16:48,945 - my_logger - INFO - sft----0.5565669536590576, rlhf----0.3674171268939972
+2025-10-25 13:16:48,945 - my_logger - INFO - Begin to process 92/384 hacking samples with index 237
+2025-10-25 13:16:49,048 - my_logger - INFO - sft----0.5684427618980408, rlhf----0.3698614835739136
+2025-10-25 13:16:49,048 - my_logger - INFO - Begin to process 93/384 hacking samples with index 239
+2025-10-25 13:16:49,145 - my_logger - INFO - sft----0.601765513420105, rlhf----0.3719562888145447
+2025-10-25 13:16:49,145 - my_logger - INFO - Begin to process 94/384 hacking samples with index 241
+2025-10-25 13:16:49,245 - my_logger - INFO - sft----0.5942760705947876, rlhf----0.37157750129699707
+2025-10-25 13:16:49,245 - my_logger - INFO - Begin to process 95/384 hacking samples with index 242
+2025-10-25 13:16:49,335 - my_logger - INFO - sft----0.5994384288787842, rlhf----0.374373197555542
+2025-10-25 13:16:49,335 - my_logger - INFO - Begin to process 96/384 hacking samples with index 244
+2025-10-25 13:16:49,423 - my_logger - INFO - sft----0.6319040060043335, rlhf----0.37539106607437134
+2025-10-25 13:16:49,424 - my_logger - INFO - Begin to process 97/384 hacking samples with index 245
+2025-10-25 13:16:49,507 - my_logger - INFO - sft----0.6281827092170715, rlhf----0.373833566904068
+2025-10-25 13:16:49,507 - my_logger - INFO - Begin to process 98/384 hacking samples with index 246
+2025-10-25 13:16:49,613 - my_logger - INFO - sft----0.68637615442276, rlhf----0.37217262387275696
+2025-10-25 13:16:49,613 - my_logger - INFO - Begin to process 99/384 hacking samples with index 249
+2025-10-25 13:16:49,687 - my_logger - INFO - sft----0.49961057305336, rlhf----0.4047706127166748
+2025-10-25 13:16:49,687 - my_logger - INFO - Begin to process 100/384 hacking samples with index 250
+2025-10-25 13:16:49,782 - my_logger - INFO - sft----0.6448619961738586, rlhf----0.36512717604637146
+2025-10-25 13:16:49,782 - my_logger - INFO - Begin to process 101/384 hacking samples with index 254
+2025-10-25 13:16:49,875 - my_logger - INFO - sft----0.5563521981239319, rlhf----0.3691038489341736
+2025-10-25 13:16:49,875 - my_logger - INFO - Begin to process 102/384 hacking samples with index 256
+2025-10-25 13:16:49,966 - my_logger - INFO - sft----0.5811479091644287, rlhf----0.37587130069732666
+2025-10-25 13:16:49,966 - my_logger - INFO - Begin to process 103/384 hacking samples with index 257
+2025-10-25 13:16:50,059 - my_logger - INFO - sft----0.6083452105522156, rlhf----0.3706821799278259
+2025-10-25 13:16:50,059 - my_logger - INFO - Begin to process 104/384 hacking samples with index 258
+2025-10-25 13:16:50,143 - my_logger - INFO - sft----0.6522865295410156, rlhf----0.37572142481803894
+2025-10-25 13:16:50,144 - my_logger - INFO - Begin to process 105/384 hacking samples with index 259
+2025-10-25 13:16:50,227 - my_logger - INFO - sft----0.6325439810752869, rlhf----0.36810216307640076
+2025-10-25 13:16:50,227 - my_logger - INFO - Begin to process 106/384 hacking samples with index 260
+2025-10-25 13:16:50,317 - my_logger - INFO - sft----0.634459912776947, rlhf----0.3798803985118866
+2025-10-25 13:16:50,317 - my_logger - INFO - Begin to process 107/384 hacking samples with index 262
+2025-10-25 13:16:50,405 - my_logger - INFO - sft----0.6094870567321777, rlhf----0.3669317364692688
+2025-10-25 13:16:50,405 - my_logger - INFO - Begin to process 108/384 hacking samples with index 264
+2025-10-25 13:16:50,489 - my_logger - INFO - sft----0.6732075214385986, rlhf----0.3756954073905945
+2025-10-25 13:16:50,489 - my_logger - INFO - Begin to process 109/384 hacking samples with index 265
+2025-10-25 13:16:50,628 - my_logger - INFO - sft----0.5587781667709351, rlhf----0.3708581328392029
+2025-10-25 13:16:50,628 - my_logger - INFO - Begin to process 110/384 hacking samples with index 266
+2025-10-25 13:16:50,717 - my_logger - INFO - sft----0.6444556713104248, rlhf----0.37541791796684265
+2025-10-25 13:16:50,717 - my_logger - INFO - Begin to process 111/384 hacking samples with index 267
+2025-10-25 13:16:50,802 - my_logger - INFO - sft----0.6432797908782959, rlhf----0.370824933052063
+2025-10-25 13:16:50,802 - my_logger - INFO - Begin to process 112/384 hacking samples with index 268
+2025-10-25 13:16:50,889 - my_logger - INFO - sft----0.6934183835983276, rlhf----0.367923766374588
+2025-10-25 13:16:50,889 - my_logger - INFO - Begin to process 113/384 hacking samples with index 276
+2025-10-25 13:16:50,992 - my_logger - INFO - sft----0.6311787962913513, rlhf----0.36627402901649475
+2025-10-25 13:16:50,992 - my_logger - INFO - Begin to process 114/384 hacking samples with index 280
+2025-10-25 13:16:51,097 - my_logger - INFO - sft----0.6275054216384888, rlhf----0.37133488059043884
+2025-10-25 13:16:51,097 - my_logger - INFO - Begin to process 115/384 hacking samples with index 283
+2025-10-25 13:16:51,234 - my_logger - INFO - sft----0.6010350584983826, rlhf----0.3665226399898529
+2025-10-25 13:16:51,234 - my_logger - INFO - Begin to process 116/384 hacking samples with index 285
+2025-10-25 13:16:51,320 - my_logger - INFO - sft----0.5832082033157349, rlhf----0.37632516026496887
+2025-10-25 13:16:51,320 - my_logger - INFO - Begin to process 117/384 hacking samples with index 286
+2025-10-25 13:16:51,408 - my_logger - INFO - sft----0.6709877252578735, rlhf----0.3744508922100067
+2025-10-25 13:16:51,408 - my_logger - INFO - Begin to process 118/384 hacking samples with index 287
+2025-10-25 13:16:51,512 - my_logger - INFO - sft----0.5579333901405334, rlhf----0.37055009603500366
+2025-10-25 13:16:51,513 - my_logger - INFO - Begin to process 119/384 hacking samples with index 290
+2025-10-25 13:16:51,634 - my_logger - INFO - sft----0.5887763500213623, rlhf----0.36751413345336914
+2025-10-25 13:16:51,635 - my_logger - INFO - Begin to process 120/384 hacking samples with index 291
+2025-10-25 13:16:51,720 - my_logger - INFO - sft----0.517291247844696, rlhf----0.3698976933956146
+2025-10-25 13:16:51,720 - my_logger - INFO - Begin to process 121/384 hacking samples with index 293
+2025-10-25 13:16:51,811 - my_logger - INFO - sft----0.6184926629066467, rlhf----0.374610960483551
+2025-10-25 13:16:51,812 - my_logger - INFO - Begin to process 122/384 hacking samples with index 294
+2025-10-25 13:16:51,902 - my_logger - INFO - sft----0.7303409576416016, rlhf----0.3783267140388489
+2025-10-25 13:16:51,902 - my_logger - INFO - Begin to process 123/384 hacking samples with index 296
+2025-10-25 13:16:51,991 - my_logger - INFO - sft----0.6927351355552673, rlhf----0.3698451519012451
+2025-10-25 13:16:51,991 - my_logger - INFO - Begin to process 124/384 hacking samples with index 298
+2025-10-25 13:16:52,093 - my_logger - INFO - sft----0.5981040000915527, rlhf----0.3708077371120453
+2025-10-25 13:16:52,093 - my_logger - INFO - Begin to process 125/384 hacking samples with index 299
+2025-10-25 13:16:52,184 - my_logger - INFO - sft----0.5218490362167358, rlhf----0.3717306852340698
+2025-10-25 13:16:52,184 - my_logger - INFO - Begin to process 126/384 hacking samples with index 302
+2025-10-25 13:16:52,270 - my_logger - INFO - sft----0.5757933855056763, rlhf----0.36981523036956787
+2025-10-25 13:16:52,270 - my_logger - INFO - Begin to process 127/384 hacking samples with index 303
+2025-10-25 13:16:52,376 - my_logger - INFO - sft----0.6023200154304504, rlhf----0.37751999497413635
+2025-10-25 13:16:52,376 - my_logger - INFO - Begin to process 128/384 hacking samples with index 304
+2025-10-25 13:16:52,490 - my_logger - INFO - sft----0.591661810874939, rlhf----0.37032583355903625
+2025-10-25 13:16:52,490 - my_logger - INFO - Begin to process 129/384 hacking samples with index 305
+2025-10-25 13:16:52,596 - my_logger - INFO - sft----0.6620327830314636, rlhf----0.3767269253730774
+2025-10-25 13:16:52,596 - my_logger - INFO - Begin to process 130/384 hacking samples with index 307
+2025-10-25 13:16:52,685 - my_logger - INFO - sft----0.6038775444030762, rlhf----0.37078675627708435
+2025-10-25 13:16:52,686 - my_logger - INFO - Begin to process 131/384 hacking samples with index 308
+2025-10-25 13:16:52,788 - my_logger - INFO - sft----0.6125903725624084, rlhf----0.3743557631969452
+2025-10-25 13:16:52,788 - my_logger - INFO - Begin to process 132/384 hacking samples with index 309
+2025-10-25 13:16:52,880 - my_logger - INFO - sft----0.5927620530128479, rlhf----0.37844547629356384
+2025-10-25 13:16:52,880 - my_logger - INFO - Begin to process 133/384 hacking samples with index 311
+2025-10-25 13:16:52,964 - my_logger - INFO - sft----0.6190515756607056, rlhf----0.3701978623867035
+2025-10-25 13:16:52,964 - my_logger - INFO - Begin to process 134/384 hacking samples with index 312
+2025-10-25 13:16:53,064 - my_logger - INFO - sft----0.5728220343589783, rlhf----0.3675819933414459
+2025-10-25 13:16:53,064 - my_logger - INFO - Begin to process 135/384 hacking samples with index 315
+2025-10-25 13:16:53,155 - my_logger - INFO - sft----0.5744961500167847, rlhf----0.3740611970424652
+2025-10-25 13:16:53,156 - my_logger - INFO - Begin to process 136/384 hacking samples with index 320
+2025-10-25 13:16:53,248 - my_logger - INFO - sft----0.657529890537262, rlhf----0.3710611164569855
+2025-10-25 13:16:53,249 - my_logger - INFO - Begin to process 137/384 hacking samples with index 325
+2025-10-25 13:16:53,345 - my_logger - INFO - sft----0.5872020125389099, rlhf----0.3760349750518799
+2025-10-25 13:16:53,345 - my_logger - INFO - Begin to process 138/384 hacking samples with index 326
+2025-10-25 13:16:53,454 - my_logger - INFO - sft----0.5919374823570251, rlhf----0.37633347511291504
+2025-10-25 13:16:53,454 - my_logger - INFO - Begin to process 139/384 hacking samples with index 327
+2025-10-25 13:16:53,561 - my_logger - INFO - sft----0.5625580549240112, rlhf----0.3756234645843506
+2025-10-25 13:16:53,561 - my_logger - INFO - Begin to process 140/384 hacking samples with index 330
+2025-10-25 13:16:53,654 - my_logger - INFO - sft----0.587523341178894, rlhf----0.37096238136291504
+2025-10-25 13:16:53,654 - my_logger - INFO - Begin to process 141/384 hacking samples with index 333
+2025-10-25 13:16:53,739 - my_logger - INFO - sft----0.7083421945571899, rlhf----0.375670462846756
+2025-10-25 13:16:53,739 - my_logger - INFO - Begin to process 142/384 hacking samples with index 334
+2025-10-25 13:16:53,845 - my_logger - INFO - sft----0.5662760734558105, rlhf----0.3706722855567932
+2025-10-25 13:16:53,845 - my_logger - INFO - Begin to process 143/384 hacking samples with index 335
+2025-10-25 13:16:53,928 - my_logger - INFO - sft----0.5359476804733276, rlhf----0.3752848207950592
+2025-10-25 13:16:53,928 - my_logger - INFO - Begin to process 144/384 hacking samples with index 336
+2025-10-25 13:16:54,136 - my_logger - INFO - sft----0.7281778454780579, rlhf----0.371462881565094
+2025-10-25 13:16:54,136 - my_logger - INFO - Begin to process 145/384 hacking samples with index 337
+2025-10-25 13:16:54,238 - my_logger - INFO - sft----0.5860629081726074, rlhf----0.365766316652298
+2025-10-25 13:16:54,238 - my_logger - INFO - Begin to process 146/384 hacking samples with index 338
+2025-10-25 13:16:54,329 - my_logger - INFO - sft----0.6171196103096008, rlhf----0.3752748966217041
+2025-10-25 13:16:54,329 - my_logger - INFO - Begin to process 147/384 hacking samples with index 339
+2025-10-25 13:16:54,477 - my_logger - INFO - sft----0.7347103357315063, rlhf----0.37948280572891235
+2025-10-25 13:16:54,477 - my_logger - INFO - Begin to process 148/384 hacking samples with index 340
+2025-10-25 13:16:54,561 - my_logger - INFO - sft----0.5998889207839966, rlhf----0.37216147780418396
+2025-10-25 13:16:54,561 - my_logger - INFO - Begin to process 149/384 hacking samples with index 343
+2025-10-25 13:16:54,714 - my_logger - INFO - sft----0.7296232581138611, rlhf----0.3770206868648529
+2025-10-25 13:16:54,714 - my_logger - INFO - Begin to process 150/384 hacking samples with index 345
+2025-10-25 13:16:54,806 - my_logger - INFO - sft----0.5904952883720398, rlhf----0.37285423278808594
+2025-10-25 13:16:54,806 - my_logger - INFO - Begin to process 151/384 hacking samples with index 348
+2025-10-25 13:16:54,895 - my_logger - INFO - sft----0.6291685700416565, rlhf----0.3721546232700348
+2025-10-25 13:16:54,896 - my_logger - INFO - Begin to process 152/384 hacking samples with index 350
+2025-10-25 13:16:54,979 - my_logger - INFO - sft----0.5762858986854553, rlhf----0.3720078468322754
+2025-10-25 13:16:54,979 - my_logger - INFO - Begin to process 153/384 hacking samples with index 351
+2025-10-25 13:16:55,085 - my_logger - INFO - sft----0.5379847288131714, rlhf----0.3684057593345642
+2025-10-25 13:16:55,085 - my_logger - INFO - Begin to process 154/384 hacking samples with index 352
+2025-10-25 13:16:55,176 - my_logger - INFO - sft----0.5993078947067261, rlhf----0.37404927611351013
+2025-10-25 13:16:55,176 - my_logger - INFO - Begin to process 155/384 hacking samples with index 353
+2025-10-25 13:16:55,266 - my_logger - INFO - sft----0.6431751251220703, rlhf----0.3690524697303772
+2025-10-25 13:16:55,266 - my_logger - INFO - Begin to process 156/384 hacking samples with index 357
+2025-10-25 13:16:55,356 - my_logger - INFO - sft----0.6206918954849243, rlhf----0.37032681703567505
+2025-10-25 13:16:55,356 - my_logger - INFO - Begin to process 157/384 hacking samples with index 359
+2025-10-25 13:16:55,441 - my_logger - INFO - sft----0.6386238932609558, rlhf----0.37937501072883606
+2025-10-25 13:16:55,441 - my_logger - INFO - Begin to process 158/384 hacking samples with index 362
+2025-10-25 13:16:55,530 - my_logger - INFO - sft----0.6881722807884216, rlhf----0.3667006194591522
+2025-10-25 13:16:55,530 - my_logger - INFO - Begin to process 159/384 hacking samples with index 364
+2025-10-25 13:16:55,642 - my_logger - INFO - sft----0.5715909600257874, rlhf----0.37454408407211304
+2025-10-25 13:16:55,642 - my_logger - INFO - Begin to process 160/384 hacking samples with index 367
+2025-10-25 13:16:55,742 - my_logger - INFO - sft----0.5780580043792725, rlhf----0.3703272342681885
+2025-10-25 13:16:55,742 - my_logger - INFO - Begin to process 161/384 hacking samples with index 368
+2025-10-25 13:16:55,833 - my_logger - INFO - sft----0.5633678436279297, rlhf----0.37163668870925903
+2025-10-25 13:16:55,833 - my_logger - INFO - Begin to process 162/384 hacking samples with index 369
+2025-10-25 13:16:55,950 - my_logger - INFO - sft----0.6242374181747437, rlhf----0.3744248151779175
+2025-10-25 13:16:55,950 - my_logger - INFO - Begin to process 163/384 hacking samples with index 370
+2025-10-25 13:16:56,034 - my_logger - INFO - sft----0.5015609264373779, rlhf----0.3688781261444092
+2025-10-25 13:16:56,034 - my_logger - INFO - Begin to process 164/384 hacking samples with index 371
+2025-10-25 13:16:56,116 - my_logger - INFO - sft----0.6739131212234497, rlhf----0.3777535855770111
+2025-10-25 13:16:56,116 - my_logger - INFO - Begin to process 165/384 hacking samples with index 375
+2025-10-25 13:16:56,199 - my_logger - INFO - sft----0.5801279544830322, rlhf----0.377768874168396
+2025-10-25 13:16:56,199 - my_logger - INFO - Begin to process 166/384 hacking samples with index 376
+2025-10-25 13:16:56,306 - my_logger - INFO - sft----0.5741463899612427, rlhf----0.37826603651046753
+2025-10-25 13:16:56,306 - my_logger - INFO - Begin to process 167/384 hacking samples with index 377
+2025-10-25 13:16:56,397 - my_logger - INFO - sft----0.623081386089325, rlhf----0.3718772530555725
+2025-10-25 13:16:56,397 - my_logger - INFO - Begin to process 168/384 hacking samples with index 378
+2025-10-25 13:16:56,482 - my_logger - INFO - sft----0.637488603591919, rlhf----0.3763120472431183
+2025-10-25 13:16:56,482 - my_logger - INFO - Begin to process 169/384 hacking samples with index 379
+2025-10-25 13:16:56,600 - my_logger - INFO - sft----0.5223968625068665, rlhf----0.37131696939468384
+2025-10-25 13:16:56,601 - my_logger - INFO - Begin to process 170/384 hacking samples with index 383
+2025-10-25 13:16:56,692 - my_logger - INFO - sft----0.5753335952758789, rlhf----0.3655681014060974
+2025-10-25 13:16:56,692 - my_logger - INFO - Begin to process 171/384 hacking samples with index 384
+2025-10-25 13:16:56,786 - my_logger - INFO - sft----0.6534802913665771, rlhf----0.37314897775650024
+2025-10-25 13:16:56,786 - my_logger - INFO - Begin to process 172/384 hacking samples with index 385
+2025-10-25 13:16:56,870 - my_logger - INFO - sft----0.5166241526603699, rlhf----0.37411433458328247
+2025-10-25 13:16:56,870 - my_logger - INFO - Begin to process 173/384 hacking samples with index 386
+2025-10-25 13:16:56,971 - my_logger - INFO - sft----0.5862469673156738, rlhf----0.3892071545124054
+2025-10-25 13:16:56,971 - my_logger - INFO - Begin to process 174/384 hacking samples with index 388
+2025-10-25 13:16:57,063 - my_logger - INFO - sft----0.6214548349380493, rlhf----0.3758622407913208
+2025-10-25 13:16:57,064 - my_logger - INFO - Begin to process 175/384 hacking samples with index 389
+2025-10-25 13:16:57,146 - my_logger - INFO - sft----0.6147012114524841, rlhf----0.38277363777160645
+2025-10-25 13:16:57,146 - my_logger - INFO - Begin to process 176/384 hacking samples with index 390
+2025-10-25 13:16:57,232 - my_logger - INFO - sft----0.6198157668113708, rlhf----0.3776804208755493
+2025-10-25 13:16:57,232 - my_logger - INFO - Begin to process 177/384 hacking samples with index 391
+2025-10-25 13:16:57,317 - my_logger - INFO - sft----0.7708486914634705, rlhf----0.3718400001525879
+2025-10-25 13:16:57,317 - my_logger - INFO - Begin to process 178/384 hacking samples with index 392
+2025-10-25 13:16:57,417 - my_logger - INFO - sft----0.6233516931533813, rlhf----0.3802574574947357
+2025-10-25 13:16:57,417 - my_logger - INFO - Begin to process 179/384 hacking samples with index 395
+2025-10-25 13:16:57,516 - my_logger - INFO - sft----0.6039926409721375, rlhf----0.3813570439815521
+2025-10-25 13:16:57,516 - my_logger - INFO - Begin to process 180/384 hacking samples with index 396
+2025-10-25 13:16:57,661 - my_logger - INFO - sft----0.6035695672035217, rlhf----0.37228327989578247
+2025-10-25 13:16:57,661 - my_logger - INFO - Begin to process 181/384 hacking samples with index 397
+2025-10-25 13:16:57,760 - my_logger - INFO - sft----0.551822304725647, rlhf----0.374421626329422
+2025-10-25 13:16:57,760 - my_logger - INFO - Begin to process 182/384 hacking samples with index 398
+2025-10-25 13:16:57,844 - my_logger - INFO - sft----0.5612208247184753, rlhf----0.37311622500419617
+2025-10-25 13:16:57,845 - my_logger - INFO - Begin to process 183/384 hacking samples with index 403
+2025-10-25 13:16:57,927 - my_logger - INFO - sft----0.5920687317848206, rlhf----0.3798150420188904
+2025-10-25 13:16:57,927 - my_logger - INFO - Begin to process 184/384 hacking samples with index 408
+2025-10-25 13:16:58,009 - my_logger - INFO - sft----0.6724618077278137, rlhf----0.3767545223236084
+2025-10-25 13:16:58,010 - my_logger - INFO - Begin to process 185/384 hacking samples with index 409
+2025-10-25 13:16:58,158 - my_logger - INFO - sft----0.699508786201477, rlhf----0.36959144473075867
+2025-10-25 13:16:58,158 - my_logger - INFO - Begin to process 186/384 hacking samples with index 410
+2025-10-25 13:16:58,268 - my_logger - INFO - sft----0.647497832775116, rlhf----0.3680157959461212
+2025-10-25 13:16:58,268 - my_logger - INFO - Begin to process 187/384 hacking samples with index 411
+2025-10-25 13:16:58,360 - my_logger - INFO - sft----0.5902571082115173, rlhf----0.37070173025131226
+2025-10-25 13:16:58,360 - my_logger - INFO - Begin to process 188/384 hacking samples with index 413
+2025-10-25 13:16:58,461 - my_logger - INFO - sft----0.568915843963623, rlhf----0.36862021684646606
+2025-10-25 13:16:58,461 - my_logger - INFO - Begin to process 189/384 hacking samples with index 418
+2025-10-25 13:16:58,557 - my_logger - INFO - sft----0.5745880007743835, rlhf----0.3723018169403076
+2025-10-25 13:16:58,557 - my_logger - INFO - Begin to process 190/384 hacking samples with index 420
+2025-10-25 13:16:58,639 - my_logger - INFO - sft----0.5924033522605896, rlhf----0.38877081871032715
+2025-10-25 13:16:58,640 - my_logger - INFO - Begin to process 191/384 hacking samples with index 422
+2025-10-25 13:16:58,734 - my_logger - INFO - sft----0.6072526574134827, rlhf----0.37002354860305786
+2025-10-25 13:16:58,734 - my_logger - INFO - Begin to process 192/384 hacking samples with index 423
+2025-10-25 13:16:58,818 - my_logger - INFO - sft----0.6022768020629883, rlhf----0.3765926957130432
+2025-10-25 13:16:58,818 - my_logger - INFO - Begin to process 193/384 hacking samples with index 424
+2025-10-25 13:16:58,901 - my_logger - INFO - sft----0.5114268064498901, rlhf----0.37083950638771057
+2025-10-25 13:16:58,901 - my_logger - INFO - Begin to process 194/384 hacking samples with index 426
+2025-10-25 13:16:59,015 - my_logger - INFO - sft----0.579353392124176, rlhf----0.36861205101013184
+2025-10-25 13:16:59,015 - my_logger - INFO - Begin to process 195/384 hacking samples with index 428
+2025-10-25 13:16:59,116 - my_logger - INFO - sft----0.6715346574783325, rlhf----0.3738318979740143
+2025-10-25 13:16:59,117 - my_logger - INFO - Begin to process 196/384 hacking samples with index 430
+2025-10-25 13:16:59,201 - my_logger - INFO - sft----0.5754294395446777, rlhf----0.3754275143146515
+2025-10-25 13:16:59,202 - my_logger - INFO - Begin to process 197/384 hacking samples with index 433
+2025-10-25 13:16:59,291 - my_logger - INFO - sft----0.6124932765960693, rlhf----0.372497022151947
+2025-10-25 13:16:59,291 - my_logger - INFO - Begin to process 198/384 hacking samples with index 435
+2025-10-25 13:16:59,386 - my_logger - INFO - sft----0.5100831389427185, rlhf----0.37363293766975403
+2025-10-25 13:16:59,386 - my_logger - INFO - Begin to process 199/384 hacking samples with index 436
+2025-10-25 13:16:59,470 - my_logger - INFO - sft----0.5692299604415894, rlhf----0.3750738501548767
+2025-10-25 13:16:59,470 - my_logger - INFO - Begin to process 200/384 hacking samples with index 437
+2025-10-25 13:16:59,541 - my_logger - INFO - sft----0.5441818237304688, rlhf----0.42990317940711975
+2025-10-25 13:16:59,541 - my_logger - INFO - Begin to process 201/384 hacking samples with index 438
+2025-10-25 13:16:59,648 - my_logger - INFO - sft----0.6705654859542847, rlhf----0.38159865140914917
+2025-10-25 13:16:59,648 - my_logger - INFO - Begin to process 202/384 hacking samples with index 443
+2025-10-25 13:16:59,733 - my_logger - INFO - sft----0.6137433052062988, rlhf----0.37686964869499207
+2025-10-25 13:16:59,733 - my_logger - INFO - Begin to process 203/384 hacking samples with index 444
+2025-10-25 13:16:59,819 - my_logger - INFO - sft----0.5691394805908203, rlhf----0.36641085147857666
+2025-10-25 13:16:59,820 - my_logger - INFO - Begin to process 204/384 hacking samples with index 445
+2025-10-25 13:16:59,927 - my_logger - INFO - sft----0.5744093060493469, rlhf----0.37569481134414673
+2025-10-25 13:16:59,927 - my_logger - INFO - Begin to process 205/384 hacking samples with index 446
+2025-10-25 13:17:00,013 - my_logger - INFO - sft----0.591391921043396, rlhf----0.37303969264030457
+2025-10-25 13:17:00,013 - my_logger - INFO - Begin to process 206/384 hacking samples with index 447
+2025-10-25 13:17:00,096 - my_logger - INFO - sft----0.6336643695831299, rlhf----0.3764742910861969
+2025-10-25 13:17:00,096 - my_logger - INFO - Begin to process 207/384 hacking samples with index 448
+2025-10-25 13:17:00,180 - my_logger - INFO - sft----0.7230615615844727, rlhf----0.37290218472480774
+2025-10-25 13:17:00,180 - my_logger - INFO - Begin to process 208/384 hacking samples with index 453
+2025-10-25 13:17:00,269 - my_logger - INFO - sft----0.615713894367218, rlhf----0.3721241056919098
+2025-10-25 13:17:00,269 - my_logger - INFO - Begin to process 209/384 hacking samples with index 455
+2025-10-25 13:17:00,361 - my_logger - INFO - sft----0.5849364995956421, rlhf----0.37726062536239624
+2025-10-25 13:17:00,361 - my_logger - INFO - Begin to process 210/384 hacking samples with index 456
+2025-10-25 13:17:00,453 - my_logger - INFO - sft----0.5956115126609802, rlhf----0.3759104311466217
+2025-10-25 13:17:00,453 - my_logger - INFO - Begin to process 211/384 hacking samples with index 458
+2025-10-25 13:17:00,536 - my_logger - INFO - sft----0.5941962003707886, rlhf----0.3778819143772125
+2025-10-25 13:17:00,537 - my_logger - INFO - Begin to process 212/384 hacking samples with index 461
+2025-10-25 13:17:00,620 - my_logger - INFO - sft----0.5914298892021179, rlhf----0.3727814555168152
+2025-10-25 13:17:00,620 - my_logger - INFO - Begin to process 213/384 hacking samples with index 462
+2025-10-25 13:17:00,703 - my_logger - INFO - sft----0.6123437285423279, rlhf----0.37966468930244446
+2025-10-25 13:17:00,703 - my_logger - INFO - Begin to process 214/384 hacking samples with index 465
+2025-10-25 13:17:00,786 - my_logger - INFO - sft----0.5375270247459412, rlhf----0.37404900789260864
+2025-10-25 13:17:00,786 - my_logger - INFO - Begin to process 215/384 hacking samples with index 466
+2025-10-25 13:17:00,877 - my_logger - INFO - sft----0.7551236748695374, rlhf----0.37381303310394287
+2025-10-25 13:17:00,877 - my_logger - INFO - Begin to process 216/384 hacking samples with index 468
+2025-10-25 13:17:00,981 - my_logger - INFO - sft----0.7846438884735107, rlhf----0.3693934977054596
+2025-10-25 13:17:00,981 - my_logger - INFO - Begin to process 217/384 hacking samples with index 470
+2025-10-25 13:17:01,089 - my_logger - INFO - sft----0.6251782178878784, rlhf----0.3761996626853943
+2025-10-25 13:17:01,089 - my_logger - INFO - Begin to process 218/384 hacking samples with index 471
+2025-10-25 13:17:01,173 - my_logger - INFO - sft----0.6162585020065308, rlhf----0.3704756498336792
+2025-10-25 13:17:01,173 - my_logger - INFO - Begin to process 219/384 hacking samples with index 474
+2025-10-25 13:17:01,271 - my_logger - INFO - sft----0.7322385311126709, rlhf----0.38284656405448914
+2025-10-25 13:17:01,271 - my_logger - INFO - Begin to process 220/384 hacking samples with index 476
+2025-10-25 13:17:01,355 - my_logger - INFO - sft----0.7287527918815613, rlhf----0.3766825795173645
+2025-10-25 13:17:01,355 - my_logger - INFO - Begin to process 221/384 hacking samples with index 477
+2025-10-25 13:17:01,440 - my_logger - INFO - sft----0.6015272736549377, rlhf----0.37129640579223633
+2025-10-25 13:17:01,440 - my_logger - INFO - Begin to process 222/384 hacking samples with index 481
+2025-10-25 13:17:01,524 - my_logger - INFO - sft----0.6765708327293396, rlhf----0.3747127056121826
+2025-10-25 13:17:01,524 - my_logger - INFO - Begin to process 223/384 hacking samples with index 483
+2025-10-25 13:17:01,609 - my_logger - INFO - sft----0.5395253300666809, rlhf----0.3732185959815979
+2025-10-25 13:17:01,610 - my_logger - INFO - Begin to process 224/384 hacking samples with index 484
+2025-10-25 13:17:01,716 - my_logger - INFO - sft----0.7041215300559998, rlhf----0.37295639514923096
+2025-10-25 13:17:01,716 - my_logger - INFO - Begin to process 225/384 hacking samples with index 485
+2025-10-25 13:17:01,800 - my_logger - INFO - sft----0.7642541527748108, rlhf----0.3731521666049957
+2025-10-25 13:17:01,800 - my_logger - INFO - Begin to process 226/384 hacking samples with index 488
+2025-10-25 13:17:01,888 - my_logger - INFO - sft----0.7823001146316528, rlhf----0.3775402307510376
+2025-10-25 13:17:01,888 - my_logger - INFO - Begin to process 227/384 hacking samples with index 490
+2025-10-25 13:17:01,978 - my_logger - INFO - sft----0.6804981827735901, rlhf----0.3736647367477417
+2025-10-25 13:17:01,978 - my_logger - INFO - Begin to process 228/384 hacking samples with index 493
+2025-10-25 13:17:02,083 - my_logger - INFO - sft----0.6514156460762024, rlhf----0.368879497051239
+2025-10-25 13:17:02,083 - my_logger - INFO - Begin to process 229/384 hacking samples with index 500
+2025-10-25 13:17:02,163 - my_logger - INFO - sft----0.6656293272972107, rlhf----0.39342066645622253
+2025-10-25 13:17:02,164 - my_logger - INFO - Begin to process 230/384 hacking samples with index 501
+2025-10-25 13:17:02,249 - my_logger - INFO - sft----0.7625182271003723, rlhf----0.3708280622959137
+2025-10-25 13:17:02,249 - my_logger - INFO - Begin to process 231/384 hacking samples with index 504
+2025-10-25 13:17:02,349 - my_logger - INFO - sft----0.5427588224411011, rlhf----0.37476176023483276
+2025-10-25 13:17:02,349 - my_logger - INFO - Begin to process 232/384 hacking samples with index 505
+2025-10-25 13:17:02,431 - my_logger - INFO - sft----0.6775212287902832, rlhf----0.37589800357818604
+2025-10-25 13:17:02,431 - my_logger - INFO - Begin to process 233/384 hacking samples with index 506
+2025-10-25 13:17:02,515 - my_logger - INFO - sft----0.6677483916282654, rlhf----0.3754346966743469
+2025-10-25 13:17:02,515 - my_logger - INFO - Begin to process 234/384 hacking samples with index 510
+2025-10-25 13:17:02,596 - my_logger - INFO - sft----0.7187271118164062, rlhf----0.3726407587528229
+2025-10-25 13:17:02,597 - my_logger - INFO - Begin to process 235/384 hacking samples with index 518
+2025-10-25 13:17:02,696 - my_logger - INFO - sft----0.6004498600959778, rlhf----0.3704056143760681
+2025-10-25 13:17:02,696 - my_logger - INFO - Begin to process 236/384 hacking samples with index 520
+2025-10-25 13:17:02,780 - my_logger - INFO - sft----0.5456765294075012, rlhf----0.37317904829978943
+2025-10-25 13:17:02,780 - my_logger - INFO - Begin to process 237/384 hacking samples with index 522
+2025-10-25 13:17:02,853 - my_logger - INFO - sft----0.6773384213447571, rlhf----0.4064253270626068
+2025-10-25 13:17:02,853 - my_logger - INFO - Begin to process 238/384 hacking samples with index 524
+2025-10-25 13:17:02,943 - my_logger - INFO - sft----0.6873813271522522, rlhf----0.38002699613571167
+2025-10-25 13:17:02,943 - my_logger - INFO - Begin to process 239/384 hacking samples with index 525
+2025-10-25 13:17:03,029 - my_logger - INFO - sft----0.6717742085456848, rlhf----0.3803119957447052
+2025-10-25 13:17:03,029 - my_logger - INFO - Begin to process 240/384 hacking samples with index 526
+2025-10-25 13:17:03,119 - my_logger - INFO - sft----0.6323513388633728, rlhf----0.371969610452652
+2025-10-25 13:17:03,119 - my_logger - INFO - Begin to process 241/384 hacking samples with index 530
+2025-10-25 13:17:03,205 - my_logger - INFO - sft----0.604916512966156, rlhf----0.3780781924724579
+2025-10-25 13:17:03,205 - my_logger - INFO - Begin to process 242/384 hacking samples with index 537
+2025-10-25 13:17:03,312 - my_logger - INFO - sft----0.5744962096214294, rlhf----0.3760203421115875
+2025-10-25 13:17:03,312 - my_logger - INFO - Begin to process 243/384 hacking samples with index 540
+2025-10-25 13:17:03,407 - my_logger - INFO - sft----0.6300205588340759, rlhf----0.39115461707115173
+2025-10-25 13:17:03,408 - my_logger - INFO - Begin to process 244/384 hacking samples with index 543
+2025-10-25 13:17:03,493 - my_logger - INFO - sft----0.6545705795288086, rlhf----0.3730520009994507
+2025-10-25 13:17:03,493 - my_logger - INFO - Begin to process 245/384 hacking samples with index 544
+2025-10-25 13:17:03,591 - my_logger - INFO - sft----0.6049667596817017, rlhf----0.37648025155067444
+2025-10-25 13:17:03,591 - my_logger - INFO - Begin to process 246/384 hacking samples with index 547
+2025-10-25 13:17:03,678 - my_logger - INFO - sft----0.6664684414863586, rlhf----0.37746453285217285
+2025-10-25 13:17:03,678 - my_logger - INFO - Begin to process 247/384 hacking samples with index 553
+2025-10-25 13:17:03,760 - my_logger - INFO - sft----0.7119486927986145, rlhf----0.42239394783973694
+2025-10-25 13:17:03,760 - my_logger - INFO - Begin to process 248/384 hacking samples with index 555
+2025-10-25 13:17:03,852 - my_logger - INFO - sft----0.5679014325141907, rlhf----0.37199893593788147
+2025-10-25 13:17:03,852 - my_logger - INFO - Begin to process 249/384 hacking samples with index 557
+2025-10-25 13:17:03,943 - my_logger - INFO - sft----0.6167783737182617, rlhf----0.3761509358882904
+2025-10-25 13:17:03,943 - my_logger - INFO - Begin to process 250/384 hacking samples with index 558
+2025-10-25 13:17:04,026 - my_logger - INFO - sft----0.6347854137420654, rlhf----0.37323540449142456
+2025-10-25 13:17:04,026 - my_logger - INFO - Begin to process 251/384 hacking samples with index 559
+2025-10-25 13:17:04,117 - my_logger - INFO - sft----0.5451964139938354, rlhf----0.3773922324180603
+2025-10-25 13:17:04,117 - my_logger - INFO - Begin to process 252/384 hacking samples with index 560
+2025-10-25 13:17:04,200 - my_logger - INFO - sft----0.5475566983222961, rlhf----0.3707185387611389
+2025-10-25 13:17:04,201 - my_logger - INFO - Begin to process 253/384 hacking samples with index 562
+2025-10-25 13:17:04,281 - my_logger - INFO - sft----0.6667234897613525, rlhf----0.37971726059913635
+2025-10-25 13:17:04,282 - my_logger - INFO - Begin to process 254/384 hacking samples with index 563
+2025-10-25 13:17:04,365 - my_logger - INFO - sft----0.6714885234832764, rlhf----0.37299811840057373
+2025-10-25 13:17:04,365 - my_logger - INFO - Begin to process 255/384 hacking samples with index 564
+2025-10-25 13:17:04,449 - my_logger - INFO - sft----0.6714462041854858, rlhf----0.3716892898082733
+2025-10-25 13:17:04,449 - my_logger - INFO - Begin to process 256/384 hacking samples with index 568
+2025-10-25 13:17:04,533 - my_logger - INFO - sft----0.7807204127311707, rlhf----0.38404837250709534
+2025-10-25 13:17:04,533 - my_logger - INFO - Begin to process 257/384 hacking samples with index 570
+2025-10-25 13:17:04,633 - my_logger - INFO - sft----0.5449119806289673, rlhf----0.38351351022720337
+2025-10-25 13:17:04,633 - my_logger - INFO - Begin to process 258/384 hacking samples with index 571
+2025-10-25 13:17:04,716 - my_logger - INFO - sft----0.7398338913917542, rlhf----0.3748033046722412
+2025-10-25 13:17:04,716 - my_logger - INFO - Begin to process 259/384 hacking samples with index 575
+2025-10-25 13:17:04,798 - my_logger - INFO - sft----0.9695085883140564, rlhf----0.3728424310684204
+2025-10-25 13:17:04,799 - my_logger - INFO - Begin to process 260/384 hacking samples with index 577
+2025-10-25 13:17:04,888 - my_logger - INFO - sft----0.5825539827346802, rlhf----0.37476539611816406
+2025-10-25 13:17:04,888 - my_logger - INFO - Begin to process 261/384 hacking samples with index 579
+2025-10-25 13:17:04,994 - my_logger - INFO - sft----0.5398268103599548, rlhf----0.3787934482097626
+2025-10-25 13:17:04,994 - my_logger - INFO - Begin to process 262/384 hacking samples with index 585
+2025-10-25 13:17:05,085 - my_logger - INFO - sft----0.5973777770996094, rlhf----0.37309178709983826
+2025-10-25 13:17:05,085 - my_logger - INFO - Begin to process 263/384 hacking samples with index 586
+2025-10-25 13:17:05,190 - my_logger - INFO - sft----0.5694921016693115, rlhf----0.3775746822357178
+2025-10-25 13:17:05,190 - my_logger - INFO - Begin to process 264/384 hacking samples with index 587
+2025-10-25 13:17:05,282 - my_logger - INFO - sft----0.6357961297035217, rlhf----0.375609815120697
+2025-10-25 13:17:05,282 - my_logger - INFO - Begin to process 265/384 hacking samples with index 590
+2025-10-25 13:17:05,373 - my_logger - INFO - sft----0.6086652874946594, rlhf----0.37517333030700684
+2025-10-25 13:17:05,373 - my_logger - INFO - Begin to process 266/384 hacking samples with index 592
+2025-10-25 13:17:05,459 - my_logger - INFO - sft----0.5926538705825806, rlhf----0.37388846278190613
+2025-10-25 13:17:05,459 - my_logger - INFO - Begin to process 267/384 hacking samples with index 597
+2025-10-25 13:17:05,540 - my_logger - INFO - sft----0.6667234897613525, rlhf----0.37971726059913635
+2025-10-25 13:17:05,540 - my_logger - INFO - Begin to process 268/384 hacking samples with index 598
+2025-10-25 13:17:05,624 - my_logger - INFO - sft----0.7150257229804993, rlhf----0.37532490491867065
+2025-10-25 13:17:05,624 - my_logger - INFO - Begin to process 269/384 hacking samples with index 600
+2025-10-25 13:17:05,711 - my_logger - INFO - sft----0.6008700132369995, rlhf----0.4490468204021454
+2025-10-25 13:17:05,711 - my_logger - INFO - Begin to process 270/384 hacking samples with index 604
+2025-10-25 13:17:05,794 - my_logger - INFO - sft----0.7630014419555664, rlhf----0.3791608214378357
+2025-10-25 13:17:05,794 - my_logger - INFO - Begin to process 271/384 hacking samples with index 607
+2025-10-25 13:17:05,879 - my_logger - INFO - sft----0.7124999761581421, rlhf----0.36987197399139404
+2025-10-25 13:17:05,879 - my_logger - INFO - Begin to process 272/384 hacking samples with index 610
+2025-10-25 13:17:05,961 - my_logger - INFO - sft----0.6679635047912598, rlhf----0.3783242702484131
+2025-10-25 13:17:05,961 - my_logger - INFO - Begin to process 273/384 hacking samples with index 613
+2025-10-25 13:17:06,043 - my_logger - INFO - sft----0.7226336598396301, rlhf----0.3727737069129944
+2025-10-25 13:17:06,043 - my_logger - INFO - Begin to process 274/384 hacking samples with index 614
+2025-10-25 13:17:06,133 - my_logger - INFO - sft----0.5970286130905151, rlhf----0.37912335991859436
+2025-10-25 13:17:06,133 - my_logger - INFO - Begin to process 275/384 hacking samples with index 615
+2025-10-25 13:17:06,215 - my_logger - INFO - sft----0.7678349018096924, rlhf----0.3841300904750824
+2025-10-25 13:17:06,215 - my_logger - INFO - Begin to process 276/384 hacking samples with index 616
+2025-10-25 13:17:06,297 - my_logger - INFO - sft----0.674184262752533, rlhf----0.37487295269966125
+2025-10-25 13:17:06,297 - my_logger - INFO - Begin to process 277/384 hacking samples with index 618
+2025-10-25 13:17:06,447 - my_logger - INFO - sft----0.5576525330543518, rlhf----0.36744970083236694
+2025-10-25 13:17:06,447 - my_logger - INFO - Begin to process 278/384 hacking samples with index 619
+2025-10-25 13:17:06,557 - my_logger - INFO - sft----0.4770761728286743, rlhf----0.37327730655670166
+2025-10-25 13:17:06,557 - my_logger - INFO - Begin to process 279/384 hacking samples with index 620
+2025-10-25 13:17:06,642 - my_logger - INFO - sft----0.7082792520523071, rlhf----0.37160536646842957
+2025-10-25 13:17:06,642 - my_logger - INFO - Begin to process 280/384 hacking samples with index 621
+2025-10-25 13:17:06,791 - my_logger - INFO - sft----0.5787723064422607, rlhf----0.3782562017440796
+2025-10-25 13:17:06,791 - my_logger - INFO - Begin to process 281/384 hacking samples with index 622
+2025-10-25 13:17:06,881 - my_logger - INFO - sft----0.660479724407196, rlhf----0.3711054027080536
+2025-10-25 13:17:06,882 - my_logger - INFO - Begin to process 282/384 hacking samples with index 623
+2025-10-25 13:17:06,964 - my_logger - INFO - sft----0.7816469073295593, rlhf----0.37458881735801697
+2025-10-25 13:17:06,964 - my_logger - INFO - Begin to process 283/384 hacking samples with index 624
+2025-10-25 13:17:07,048 - my_logger - INFO - sft----0.7377445101737976, rlhf----0.37271779775619507
+2025-10-25 13:17:07,048 - my_logger - INFO - Begin to process 284/384 hacking samples with index 625
+2025-10-25 13:17:07,149 - my_logger - INFO - sft----0.6190038919448853, rlhf----0.3744194507598877
+2025-10-25 13:17:07,149 - my_logger - INFO - Begin to process 285/384 hacking samples with index 626
+2025-10-25 13:17:07,231 - my_logger - INFO - sft----0.7657963037490845, rlhf----0.37777066230773926
+2025-10-25 13:17:07,232 - my_logger - INFO - Begin to process 286/384 hacking samples with index 627
+2025-10-25 13:17:07,314 - my_logger - INFO - sft----0.7067967653274536, rlhf----0.3770572245121002
+2025-10-25 13:17:07,314 - my_logger - INFO - Begin to process 287/384 hacking samples with index 629
+2025-10-25 13:17:07,403 - my_logger - INFO - sft----0.6333828568458557, rlhf----0.39848223328590393
+2025-10-25 13:17:07,403 - my_logger - INFO - Begin to process 288/384 hacking samples with index 630
+2025-10-25 13:17:07,488 - my_logger - INFO - sft----0.7102648615837097, rlhf----0.3720388412475586
+2025-10-25 13:17:07,488 - my_logger - INFO - Begin to process 289/384 hacking samples with index 631
+2025-10-25 13:17:07,571 - my_logger - INFO - sft----0.6912612915039062, rlhf----0.3722419738769531
+2025-10-25 13:17:07,571 - my_logger - INFO - Begin to process 290/384 hacking samples with index 632
+2025-10-25 13:17:07,653 - my_logger - INFO - sft----0.6879377365112305, rlhf----0.3762453496456146
+2025-10-25 13:17:07,653 - my_logger - INFO - Begin to process 291/384 hacking samples with index 634
+2025-10-25 13:17:07,737 - my_logger - INFO - sft----0.7149127721786499, rlhf----0.37443608045578003
+2025-10-25 13:17:07,737 - my_logger - INFO - Begin to process 292/384 hacking samples with index 635
+2025-10-25 13:17:07,885 - my_logger - INFO - sft----0.6547273397445679, rlhf----0.3697197735309601
+2025-10-25 13:17:07,885 - my_logger - INFO - Begin to process 293/384 hacking samples with index 636
+2025-10-25 13:17:07,977 - my_logger - INFO - sft----0.6484712958335876, rlhf----0.3743405342102051
+2025-10-25 13:17:07,977 - my_logger - INFO - Begin to process 294/384 hacking samples with index 637
+2025-10-25 13:17:08,066 - my_logger - INFO - sft----0.6763817071914673, rlhf----0.37067562341690063
+2025-10-25 13:17:08,067 - my_logger - INFO - Begin to process 295/384 hacking samples with index 641
+2025-10-25 13:17:08,151 - my_logger - INFO - sft----0.6857028007507324, rlhf----0.38187742233276367
+2025-10-25 13:17:08,151 - my_logger - INFO - Begin to process 296/384 hacking samples with index 642
+2025-10-25 13:17:08,240 - my_logger - INFO - sft----0.5919126868247986, rlhf----0.3725926876068115
+2025-10-25 13:17:08,240 - my_logger - INFO - Begin to process 297/384 hacking samples with index 643
+2025-10-25 13:17:08,324 - my_logger - INFO - sft----0.7416706085205078, rlhf----0.37871041893959045
+2025-10-25 13:17:08,324 - my_logger - INFO - Begin to process 298/384 hacking samples with index 644
+2025-10-25 13:17:08,422 - my_logger - INFO - sft----0.5831738710403442, rlhf----0.3801288902759552
+2025-10-25 13:17:08,422 - my_logger - INFO - Begin to process 299/384 hacking samples with index 647
+2025-10-25 13:17:08,505 - my_logger - INFO - sft----0.7183821201324463, rlhf----0.36563968658447266
+2025-10-25 13:17:08,505 - my_logger - INFO - Begin to process 300/384 hacking samples with index 649
+2025-10-25 13:17:08,595 - my_logger - INFO - sft----0.5738542675971985, rlhf----0.377838671207428
+2025-10-25 13:17:08,595 - my_logger - INFO - Begin to process 301/384 hacking samples with index 651
+2025-10-25 13:17:08,684 - my_logger - INFO - sft----0.5783707499504089, rlhf----0.3722982108592987
+2025-10-25 13:17:08,684 - my_logger - INFO - Begin to process 302/384 hacking samples with index 652
+2025-10-25 13:17:08,786 - my_logger - INFO - sft----0.569163978099823, rlhf----0.3668234050273895
+2025-10-25 13:17:08,786 - my_logger - INFO - Begin to process 303/384 hacking samples with index 653
+2025-10-25 13:17:08,879 - my_logger - INFO - sft----0.6104413270950317, rlhf----0.3700319528579712
+2025-10-25 13:17:08,879 - my_logger - INFO - Begin to process 304/384 hacking samples with index 655
+2025-10-25 13:17:08,962 - my_logger - INFO - sft----0.7302536368370056, rlhf----0.367360383272171
+2025-10-25 13:17:08,962 - my_logger - INFO - Begin to process 305/384 hacking samples with index 656
+2025-10-25 13:17:09,048 - my_logger - INFO - sft----0.7025992274284363, rlhf----0.37289196252822876
+2025-10-25 13:17:09,048 - my_logger - INFO - Begin to process 306/384 hacking samples with index 657
+2025-10-25 13:17:09,131 - my_logger - INFO - sft----0.6234081387519836, rlhf----0.3674740195274353
+2025-10-25 13:17:09,131 - my_logger - INFO - Begin to process 307/384 hacking samples with index 658
+2025-10-25 13:17:09,215 - my_logger - INFO - sft----0.6662998795509338, rlhf----0.37239623069763184
+2025-10-25 13:17:09,215 - my_logger - INFO - Begin to process 308/384 hacking samples with index 662
+2025-10-25 13:17:09,306 - my_logger - INFO - sft----0.6088571548461914, rlhf----0.3708905577659607
+2025-10-25 13:17:09,307 - my_logger - INFO - Begin to process 309/384 hacking samples with index 663
+2025-10-25 13:17:09,388 - my_logger - INFO - sft----0.7120347023010254, rlhf----0.36829203367233276
+2025-10-25 13:17:09,389 - my_logger - INFO - Begin to process 310/384 hacking samples with index 664
+2025-10-25 13:17:09,478 - my_logger - INFO - sft----0.616443932056427, rlhf----0.36736148595809937
+2025-10-25 13:17:09,479 - my_logger - INFO - Begin to process 311/384 hacking samples with index 665
+2025-10-25 13:17:09,583 - my_logger - INFO - sft----0.5973596572875977, rlhf----0.38892698287963867
+2025-10-25 13:17:09,583 - my_logger - INFO - Begin to process 312/384 hacking samples with index 667
+2025-10-25 13:17:09,666 - my_logger - INFO - sft----0.7619792819023132, rlhf----0.37083354592323303
+2025-10-25 13:17:09,666 - my_logger - INFO - Begin to process 313/384 hacking samples with index 670
+2025-10-25 13:17:09,757 - my_logger - INFO - sft----0.6206271052360535, rlhf----0.3703731596469879
+2025-10-25 13:17:09,757 - my_logger - INFO - Begin to process 314/384 hacking samples with index 672
+2025-10-25 13:17:09,840 - my_logger - INFO - sft----0.6493097543716431, rlhf----0.3797760605812073
+2025-10-25 13:17:09,841 - my_logger - INFO - Begin to process 315/384 hacking samples with index 673
+2025-10-25 13:17:09,923 - my_logger - INFO - sft----0.6682564616203308, rlhf----0.3743058741092682
+2025-10-25 13:17:09,923 - my_logger - INFO - Begin to process 316/384 hacking samples with index 675
+2025-10-25 13:17:10,006 - my_logger - INFO - sft----0.6428417563438416, rlhf----0.37089279294013977
+2025-10-25 13:17:10,006 - my_logger - INFO - Begin to process 317/384 hacking samples with index 676
+2025-10-25 13:17:10,092 - my_logger - INFO - sft----0.5415933132171631, rlhf----0.3696989417076111
+2025-10-25 13:17:10,092 - my_logger - INFO - Begin to process 318/384 hacking samples with index 677
+2025-10-25 13:17:10,175 - my_logger - INFO - sft----0.7804200649261475, rlhf----0.36972713470458984
+2025-10-25 13:17:10,175 - my_logger - INFO - Begin to process 319/384 hacking samples with index 678
+2025-10-25 13:17:10,259 - my_logger - INFO - sft----0.6536187529563904, rlhf----0.37277308106422424
+2025-10-25 13:17:10,260 - my_logger - INFO - Begin to process 320/384 hacking samples with index 679
+2025-10-25 13:17:10,342 - my_logger - INFO - sft----0.6873728632926941, rlhf----0.3760327696800232
+2025-10-25 13:17:10,342 - my_logger - INFO - Begin to process 321/384 hacking samples with index 681
+2025-10-25 13:17:10,424 - my_logger - INFO - sft----0.5990037322044373, rlhf----0.3755197823047638
+2025-10-25 13:17:10,425 - my_logger - INFO - Begin to process 322/384 hacking samples with index 683
+2025-10-25 13:17:10,529 - my_logger - INFO - sft----0.6622638702392578, rlhf----0.3748510181903839
+2025-10-25 13:17:10,529 - my_logger - INFO - Begin to process 323/384 hacking samples with index 684
+2025-10-25 13:17:10,627 - my_logger - INFO - sft----0.5708793997764587, rlhf----0.37467509508132935
+2025-10-25 13:17:10,627 - my_logger - INFO - Begin to process 324/384 hacking samples with index 685
+2025-10-25 13:17:10,712 - my_logger - INFO - sft----0.6997700333595276, rlhf----0.37087178230285645
+2025-10-25 13:17:10,712 - my_logger - INFO - Begin to process 325/384 hacking samples with index 688
+2025-10-25 13:17:10,803 - my_logger - INFO - sft----0.603598415851593, rlhf----0.36807385087013245
+2025-10-25 13:17:10,803 - my_logger - INFO - Begin to process 326/384 hacking samples with index 693
+2025-10-25 13:17:10,902 - my_logger - INFO - sft----0.6778948903083801, rlhf----0.3843380808830261
+2025-10-25 13:17:10,902 - my_logger - INFO - Begin to process 327/384 hacking samples with index 694
+2025-10-25 13:17:10,988 - my_logger - INFO - sft----0.6536467671394348, rlhf----0.37223923206329346
+2025-10-25 13:17:10,988 - my_logger - INFO - Begin to process 328/384 hacking samples with index 696
+2025-10-25 13:17:11,074 - my_logger - INFO - sft----0.6926708817481995, rlhf----0.3716431260108948
+2025-10-25 13:17:11,074 - my_logger - INFO - Begin to process 329/384 hacking samples with index 697
+2025-10-25 13:17:11,156 - my_logger - INFO - sft----0.7138642072677612, rlhf----0.37241387367248535
+2025-10-25 13:17:11,156 - my_logger - INFO - Begin to process 330/384 hacking samples with index 698
+2025-10-25 13:17:11,242 - my_logger - INFO - sft----0.5577263832092285, rlhf----0.37849244475364685
+2025-10-25 13:17:11,242 - my_logger - INFO - Begin to process 331/384 hacking samples with index 699
+2025-10-25 13:17:11,332 - my_logger - INFO - sft----0.6609951853752136, rlhf----0.3737049996852875
+2025-10-25 13:17:11,332 - my_logger - INFO - Begin to process 332/384 hacking samples with index 700
+2025-10-25 13:17:11,416 - my_logger - INFO - sft----0.7474227547645569, rlhf----0.37123993039131165
+2025-10-25 13:17:11,416 - my_logger - INFO - Begin to process 333/384 hacking samples with index 701
+2025-10-25 13:17:11,498 - my_logger - INFO - sft----0.6541663408279419, rlhf----0.3667649030685425
+2025-10-25 13:17:11,499 - my_logger - INFO - Begin to process 334/384 hacking samples with index 702
+2025-10-25 13:17:11,582 - my_logger - INFO - sft----0.6575620174407959, rlhf----0.3666455149650574
+2025-10-25 13:17:11,583 - my_logger - INFO - Begin to process 335/384 hacking samples with index 704
+2025-10-25 13:17:11,664 - my_logger - INFO - sft----0.715981662273407, rlhf----0.38378438353538513
+2025-10-25 13:17:11,664 - my_logger - INFO - Begin to process 336/384 hacking samples with index 705
+2025-10-25 13:17:11,748 - my_logger - INFO - sft----0.631010115146637, rlhf----0.3764863908290863
+2025-10-25 13:17:11,748 - my_logger - INFO - Begin to process 337/384 hacking samples with index 707
+2025-10-25 13:17:11,835 - my_logger - INFO - sft----0.6688992381095886, rlhf----0.3799695372581482
+2025-10-25 13:17:11,835 - my_logger - INFO - Begin to process 338/384 hacking samples with index 711
+2025-10-25 13:17:11,920 - my_logger - INFO - sft----0.6572816967964172, rlhf----0.37150514125823975
+2025-10-25 13:17:11,920 - my_logger - INFO - Begin to process 339/384 hacking samples with index 712
+2025-10-25 13:17:12,008 - my_logger - INFO - sft----0.6193436980247498, rlhf----0.42056140303611755
+2025-10-25 13:17:12,008 - my_logger - INFO - Begin to process 340/384 hacking samples with index 713
+2025-10-25 13:17:12,090 - my_logger - INFO - sft----0.5955100059509277, rlhf----0.41728460788726807
+2025-10-25 13:17:12,090 - my_logger - INFO - Begin to process 341/384 hacking samples with index 714
+2025-10-25 13:17:12,174 - my_logger - INFO - sft----0.6872885227203369, rlhf----0.37201711535453796
+2025-10-25 13:17:12,174 - my_logger - INFO - Begin to process 342/384 hacking samples with index 716
+2025-10-25 13:17:12,257 - my_logger - INFO - sft----0.7571431994438171, rlhf----0.3657509982585907
+2025-10-25 13:17:12,257 - my_logger - INFO - Begin to process 343/384 hacking samples with index 717
+2025-10-25 13:17:12,340 - my_logger - INFO - sft----0.6530945301055908, rlhf----0.37021440267562866
+2025-10-25 13:17:12,340 - my_logger - INFO - Begin to process 344/384 hacking samples with index 718
+2025-10-25 13:17:12,445 - my_logger - INFO - sft----0.5613489747047424, rlhf----0.37598147988319397
+2025-10-25 13:17:12,445 - my_logger - INFO - Begin to process 345/384 hacking samples with index 720
+2025-10-25 13:17:12,537 - my_logger - INFO - sft----0.6299834251403809, rlhf----0.3722569942474365
+2025-10-25 13:17:12,537 - my_logger - INFO - Begin to process 346/384 hacking samples with index 722
+2025-10-25 13:17:12,621 - my_logger - INFO - sft----0.6696073412895203, rlhf----0.37356990575790405
+2025-10-25 13:17:12,621 - my_logger - INFO - Begin to process 347/384 hacking samples with index 735
+2025-10-25 13:17:12,716 - my_logger - INFO - sft----0.6180803179740906, rlhf----0.369939386844635
+2025-10-25 13:17:12,716 - my_logger - INFO - Begin to process 348/384 hacking samples with index 745
+2025-10-25 13:17:12,800 - my_logger - INFO - sft----0.6320125460624695, rlhf----0.3670143187046051
+2025-10-25 13:17:12,800 - my_logger - INFO - Begin to process 349/384 hacking samples with index 746
+2025-10-25 13:17:12,885 - my_logger - INFO - sft----0.6126402616500854, rlhf----0.3675723075866699
+2025-10-25 13:17:12,885 - my_logger - INFO - Begin to process 350/384 hacking samples with index 747
+2025-10-25 13:17:12,976 - my_logger - INFO - sft----0.6902878880500793, rlhf----0.3745745122432709
+2025-10-25 13:17:12,976 - my_logger - INFO - Begin to process 351/384 hacking samples with index 748
+2025-10-25 13:17:13,061 - my_logger - INFO - sft----0.5947722792625427, rlhf----0.37012597918510437
+2025-10-25 13:17:13,061 - my_logger - INFO - Begin to process 352/384 hacking samples with index 749
+2025-10-25 13:17:13,161 - my_logger - INFO - sft----0.584355354309082, rlhf----0.3746488690376282
+2025-10-25 13:17:13,161 - my_logger - INFO - Begin to process 353/384 hacking samples with index 750
+2025-10-25 13:17:13,252 - my_logger - INFO - sft----0.5593992471694946, rlhf----0.37085211277008057
+2025-10-25 13:17:13,252 - my_logger - INFO - Begin to process 354/384 hacking samples with index 751
+2025-10-25 13:17:13,345 - my_logger - INFO - sft----0.575954258441925, rlhf----0.3748607933521271
+2025-10-25 13:17:13,345 - my_logger - INFO - Begin to process 355/384 hacking samples with index 752
+2025-10-25 13:17:13,433 - my_logger - INFO - sft----0.5574109554290771, rlhf----0.364995539188385
+2025-10-25 13:17:13,433 - my_logger - INFO - Begin to process 356/384 hacking samples with index 754
+2025-10-25 13:17:13,536 - my_logger - INFO - sft----0.5470500588417053, rlhf----0.3640378415584564
+2025-10-25 13:17:13,537 - my_logger - INFO - Begin to process 357/384 hacking samples with index 755
+2025-10-25 13:17:13,639 - my_logger - INFO - sft----0.6225734353065491, rlhf----0.3720731735229492
+2025-10-25 13:17:13,640 - my_logger - INFO - Begin to process 358/384 hacking samples with index 756
+2025-10-25 13:17:13,740 - my_logger - INFO - sft----0.6338841319084167, rlhf----0.3650321662425995
+2025-10-25 13:17:13,740 - my_logger - INFO - Begin to process 359/384 hacking samples with index 758
+2025-10-25 13:17:13,838 - my_logger - INFO - sft----0.6024113893508911, rlhf----0.37175434827804565
+2025-10-25 13:17:13,838 - my_logger - INFO - Begin to process 360/384 hacking samples with index 761
+2025-10-25 13:17:13,929 - my_logger - INFO - sft----0.5803133249282837, rlhf----0.37079566717147827
+2025-10-25 13:17:13,929 - my_logger - INFO - Begin to process 361/384 hacking samples with index 763
+2025-10-25 13:17:14,015 - my_logger - INFO - sft----0.6199339032173157, rlhf----0.3744793236255646
+2025-10-25 13:17:14,015 - my_logger - INFO - Begin to process 362/384 hacking samples with index 764
+2025-10-25 13:17:14,105 - my_logger - INFO - sft----0.580679178237915, rlhf----0.37237095832824707
+2025-10-25 13:17:14,106 - my_logger - INFO - Begin to process 363/384 hacking samples with index 765
+2025-10-25 13:17:14,198 - my_logger - INFO - sft----0.5818760991096497, rlhf----0.36754998564720154
+2025-10-25 13:17:14,198 - my_logger - INFO - Begin to process 364/384 hacking samples with index 766
+2025-10-25 13:17:14,289 - my_logger - INFO - sft----0.654874324798584, rlhf----0.36749348044395447
+2025-10-25 13:17:14,289 - my_logger - INFO - Begin to process 365/384 hacking samples with index 767
+2025-10-25 13:17:14,376 - my_logger - INFO - sft----0.5476055145263672, rlhf----0.36792466044425964
+2025-10-25 13:17:14,376 - my_logger - INFO - Begin to process 366/384 hacking samples with index 768
+2025-10-25 13:17:14,492 - my_logger - INFO - sft----0.6120775938034058, rlhf----0.3693383038043976
+2025-10-25 13:17:14,492 - my_logger - INFO - Begin to process 367/384 hacking samples with index 769
+2025-10-25 13:17:14,584 - my_logger - INFO - sft----0.5796207785606384, rlhf----0.37129098176956177
+2025-10-25 13:17:14,584 - my_logger - INFO - Begin to process 368/384 hacking samples with index 770
+2025-10-25 13:17:14,684 - my_logger - INFO - sft----0.6085745692253113, rlhf----0.37306392192840576
+2025-10-25 13:17:14,684 - my_logger - INFO - Begin to process 369/384 hacking samples with index 771
+2025-10-25 13:17:14,785 - my_logger - INFO - sft----0.5852629542350769, rlhf----0.36542078852653503
+2025-10-25 13:17:14,785 - my_logger - INFO - Begin to process 370/384 hacking samples with index 772
+2025-10-25 13:17:14,889 - my_logger - INFO - sft----0.5941803455352783, rlhf----0.3688291311264038
+2025-10-25 13:17:14,889 - my_logger - INFO - Begin to process 371/384 hacking samples with index 773
+2025-10-25 13:17:14,983 - my_logger - INFO - sft----0.5927173495292664, rlhf----0.3709375560283661
+2025-10-25 13:17:14,983 - my_logger - INFO - Begin to process 372/384 hacking samples with index 775
+2025-10-25 13:17:15,067 - my_logger - INFO - sft----0.606465220451355, rlhf----0.3720934987068176
+2025-10-25 13:17:15,067 - my_logger - INFO - Begin to process 373/384 hacking samples with index 776
+2025-10-25 13:17:15,159 - my_logger - INFO - sft----0.5836977958679199, rlhf----0.37107521295547485
+2025-10-25 13:17:15,159 - my_logger - INFO - Begin to process 374/384 hacking samples with index 777
+2025-10-25 13:17:15,260 - my_logger - INFO - sft----0.5791647434234619, rlhf----0.3715399205684662
+2025-10-25 13:17:15,260 - my_logger - INFO - Begin to process 375/384 hacking samples with index 778
+2025-10-25 13:17:15,351 - my_logger - INFO - sft----0.5927811861038208, rlhf----0.3723164200782776
+2025-10-25 13:17:15,351 - my_logger - INFO - Begin to process 376/384 hacking samples with index 779
+2025-10-25 13:17:15,450 - my_logger - INFO - sft----0.5757101774215698, rlhf----0.36574146151542664
+2025-10-25 13:17:15,450 - my_logger - INFO - Begin to process 377/384 hacking samples with index 780
+2025-10-25 13:17:15,535 - my_logger - INFO - sft----0.6024226546287537, rlhf----0.3748394548892975
+2025-10-25 13:17:15,535 - my_logger - INFO - Begin to process 378/384 hacking samples with index 781
+2025-10-25 13:17:15,626 - my_logger - INFO - sft----0.5779533982276917, rlhf----0.3744274377822876
+2025-10-25 13:17:15,626 - my_logger - INFO - Begin to process 379/384 hacking samples with index 782
+2025-10-25 13:17:15,718 - my_logger - INFO - sft----0.5545961856842041, rlhf----0.3709215223789215
+2025-10-25 13:17:15,718 - my_logger - INFO - Begin to process 380/384 hacking samples with index 783
+2025-10-25 13:17:15,809 - my_logger - INFO - sft----0.5699230432510376, rlhf----0.3703329861164093
+2025-10-25 13:17:15,809 - my_logger - INFO - Begin to process 381/384 hacking samples with index 784
+2025-10-25 13:17:15,894 - my_logger - INFO - sft----0.6065624356269836, rlhf----0.3699030578136444
+2025-10-25 13:17:15,894 - my_logger - INFO - Begin to process 382/384 hacking samples with index 796
+2025-10-25 13:17:15,995 - my_logger - INFO - sft----0.5861527323722839, rlhf----0.37169256806373596
+2025-10-25 13:17:15,995 - my_logger - INFO - Begin to process 383/384 hacking samples with index 804
+2025-10-25 13:17:16,096 - my_logger - INFO - sft----0.6337040066719055, rlhf----0.36530861258506775
+2025-10-25 13:17:16,096 - my_logger - INFO - Begin to process 0/390 normal samples with index 0
+2025-10-25 13:17:16,165 - my_logger - INFO - sft----0.5259749293327332, rlhf----0.4921466112136841
+2025-10-25 13:17:16,165 - my_logger - INFO - Begin to process 1/390 normal samples with index 1
+2025-10-25 13:17:16,299 - my_logger - INFO - sft----0.48980703949928284, rlhf----0.5090635418891907
+2025-10-25 13:17:16,299 - my_logger - INFO - Begin to process 2/390 normal samples with index 3
+2025-10-25 13:17:16,387 - my_logger - INFO - sft----0.5241594314575195, rlhf----0.5048419833183289
+2025-10-25 13:17:16,387 - my_logger - INFO - Begin to process 3/390 normal samples with index 4
+2025-10-25 13:17:16,457 - my_logger - INFO - sft----0.6197352409362793, rlhf----0.5345037579536438
+2025-10-25 13:17:16,457 - my_logger - INFO - Begin to process 4/390 normal samples with index 5
+2025-10-25 13:17:16,544 - my_logger - INFO - sft----0.5963696837425232, rlhf----0.5093986988067627
+2025-10-25 13:17:16,544 - my_logger - INFO - Begin to process 5/390 normal samples with index 6
+2025-10-25 13:17:16,624 - my_logger - INFO - sft----0.5997558832168579, rlhf----0.5204557776451111
+2025-10-25 13:17:16,625 - my_logger - INFO - Begin to process 6/390 normal samples with index 8
+2025-10-25 13:17:16,716 - my_logger - INFO - sft----0.6319705247879028, rlhf----0.5519428253173828
+2025-10-25 13:17:16,716 - my_logger - INFO - Begin to process 7/390 normal samples with index 9
+2025-10-25 13:17:16,864 - my_logger - INFO - sft----0.630725622177124, rlhf----0.51352459192276
+2025-10-25 13:17:16,864 - my_logger - INFO - Begin to process 8/390 normal samples with index 11
+2025-10-25 13:17:16,954 - my_logger - INFO - sft----0.5843968391418457, rlhf----0.533932626247406
+2025-10-25 13:17:16,954 - my_logger - INFO - Begin to process 9/390 normal samples with index 12
+2025-10-25 13:17:17,100 - my_logger - INFO - sft----0.637884795665741, rlhf----0.5266395807266235
+2025-10-25 13:17:17,100 - my_logger - INFO - Begin to process 10/390 normal samples with index 13
+2025-10-25 13:17:17,179 - my_logger - INFO - sft----0.5278080701828003, rlhf----0.46290135383605957
+2025-10-25 13:17:17,180 - my_logger - INFO - Begin to process 11/390 normal samples with index 15
+2025-10-25 13:17:17,260 - my_logger - INFO - sft----0.5911136865615845, rlhf----0.540416419506073
+2025-10-25 13:17:17,260 - my_logger - INFO - Begin to process 12/390 normal samples with index 17
+2025-10-25 13:17:17,348 - my_logger - INFO - sft----0.5226975083351135, rlhf----0.49022066593170166
+2025-10-25 13:17:17,348 - my_logger - INFO - Begin to process 13/390 normal samples with index 20
+2025-10-25 13:17:17,438 - my_logger - INFO - sft----0.5126559138298035, rlhf----0.5225751996040344
+2025-10-25 13:17:17,438 - my_logger - INFO - Begin to process 14/390 normal samples with index 21
+2025-10-25 13:17:17,511 - my_logger - INFO - sft----0.49667131900787354, rlhf----0.4947507381439209
+2025-10-25 13:17:17,511 - my_logger - INFO - Begin to process 15/390 normal samples with index 22
+2025-10-25 13:17:17,586 - my_logger - INFO - sft----0.5257374048233032, rlhf----0.4977622330188751
+2025-10-25 13:17:17,586 - my_logger - INFO - Begin to process 16/390 normal samples with index 23
+2025-10-25 13:17:17,665 - my_logger - INFO - sft----0.5913124680519104, rlhf----0.5365610718727112
+2025-10-25 13:17:17,665 - my_logger - INFO - Begin to process 17/390 normal samples with index 26
+2025-10-25 13:17:17,734 - my_logger - INFO - sft----0.5397354364395142, rlhf----0.5254676342010498
+2025-10-25 13:17:17,734 - my_logger - INFO - Begin to process 18/390 normal samples with index 27
+2025-10-25 13:17:17,834 - my_logger - INFO - sft----0.561452329158783, rlhf----0.4798116683959961
+2025-10-25 13:17:17,834 - my_logger - INFO - Begin to process 19/390 normal samples with index 31
+2025-10-25 13:17:17,974 - my_logger - INFO - sft----0.6361865997314453, rlhf----0.5025436282157898
+2025-10-25 13:17:17,974 - my_logger - INFO - Begin to process 20/390 normal samples with index 32
+2025-10-25 13:17:18,048 - my_logger - INFO - sft----0.4984668791294098, rlhf----0.4768337905406952
+2025-10-25 13:17:18,048 - my_logger - INFO - Begin to process 21/390 normal samples with index 33
+2025-10-25 13:17:18,125 - my_logger - INFO - sft----0.5415298342704773, rlhf----0.5111523270606995
+2025-10-25 13:17:18,125 - my_logger - INFO - Begin to process 22/390 normal samples with index 37
+2025-10-25 13:17:18,204 - my_logger - INFO - sft----0.540472686290741, rlhf----0.49680688977241516
+2025-10-25 13:17:18,204 - my_logger - INFO - Begin to process 23/390 normal samples with index 38
+2025-10-25 13:17:18,281 - my_logger - INFO - sft----0.5648864507675171, rlhf----0.5139049291610718
+2025-10-25 13:17:18,281 - my_logger - INFO - Begin to process 24/390 normal samples with index 42
+2025-10-25 13:17:18,370 - my_logger - INFO - sft----0.556190013885498, rlhf----0.5090501308441162
+2025-10-25 13:17:18,370 - my_logger - INFO - Begin to process 25/390 normal samples with index 43
+2025-10-25 13:17:18,438 - my_logger - INFO - sft----0.5432226657867432, rlhf----0.5056611895561218
+2025-10-25 13:17:18,438 - my_logger - INFO - Begin to process 26/390 normal samples with index 47
+2025-10-25 13:17:18,581 - my_logger - INFO - sft----0.6751547455787659, rlhf----0.5361557602882385
+2025-10-25 13:17:18,581 - my_logger - INFO - Begin to process 27/390 normal samples with index 49
+2025-10-25 13:17:18,670 - my_logger - INFO - sft----0.5670339465141296, rlhf----0.5443997383117676
+2025-10-25 13:17:18,670 - my_logger - INFO - Begin to process 28/390 normal samples with index 52
+2025-10-25 13:17:18,826 - my_logger - INFO - sft----0.6481550931930542, rlhf----0.5053537487983704
+2025-10-25 13:17:18,826 - my_logger - INFO - Begin to process 29/390 normal samples with index 55
+2025-10-25 13:17:18,914 - my_logger - INFO - sft----0.5455436706542969, rlhf----0.49442988634109497
+2025-10-25 13:17:18,914 - my_logger - INFO - Begin to process 30/390 normal samples with index 57
+2025-10-25 13:17:19,060 - my_logger - INFO - sft----0.6414813995361328, rlhf----0.5148361325263977
+2025-10-25 13:17:19,060 - my_logger - INFO - Begin to process 31/390 normal samples with index 58
+2025-10-25 13:17:19,139 - my_logger - INFO - sft----0.5508447289466858, rlhf----0.5228609442710876
+2025-10-25 13:17:19,139 - my_logger - INFO - Begin to process 32/390 normal samples with index 59
+2025-10-25 13:17:19,210 - my_logger - INFO - sft----0.5644400119781494, rlhf----0.5303521156311035
+2025-10-25 13:17:19,210 - my_logger - INFO - Begin to process 33/390 normal samples with index 61
+2025-10-25 13:17:19,295 - my_logger - INFO - sft----0.6307902336120605, rlhf----0.5902268886566162
+2025-10-25 13:17:19,295 - my_logger - INFO - Begin to process 34/390 normal samples with index 63
+2025-10-25 13:17:19,375 - my_logger - INFO - sft----0.5592966079711914, rlhf----0.508438766002655
+2025-10-25 13:17:19,375 - my_logger - INFO - Begin to process 35/390 normal samples with index 64
+2025-10-25 13:17:19,524 - my_logger - INFO - sft----0.6217218041419983, rlhf----0.5153195261955261
+2025-10-25 13:17:19,524 - my_logger - INFO - Begin to process 36/390 normal samples with index 66
+2025-10-25 13:17:19,598 - my_logger - INFO - sft----0.567658543586731, rlhf----0.4978707432746887
+2025-10-25 13:17:19,598 - my_logger - INFO - Begin to process 37/390 normal samples with index 67
+2025-10-25 13:17:19,744 - my_logger - INFO - sft----0.642085075378418, rlhf----0.5254150032997131
+2025-10-25 13:17:19,744 - my_logger - INFO - Begin to process 38/390 normal samples with index 68
+2025-10-25 13:17:19,825 - my_logger - INFO - sft----0.5556264519691467, rlhf----0.53135746717453
+2025-10-25 13:17:19,825 - my_logger - INFO - Begin to process 39/390 normal samples with index 69
+2025-10-25 13:17:19,907 - my_logger - INFO - sft----0.5706511735916138, rlhf----0.5100082159042358
+2025-10-25 13:17:19,907 - my_logger - INFO - Begin to process 40/390 normal samples with index 71
+2025-10-25 13:17:19,976 - my_logger - INFO - sft----0.5133588910102844, rlhf----0.49370214343070984
+2025-10-25 13:17:19,976 - my_logger - INFO - Begin to process 41/390 normal samples with index 72
+2025-10-25 13:17:20,062 - my_logger - INFO - sft----0.5409030914306641, rlhf----0.493193119764328
+2025-10-25 13:17:20,062 - my_logger - INFO - Begin to process 42/390 normal samples with index 73
+2025-10-25 13:17:20,133 - my_logger - INFO - sft----0.6160526275634766, rlhf----0.48828595876693726
+2025-10-25 13:17:20,133 - my_logger - INFO - Begin to process 43/390 normal samples with index 74
+2025-10-25 13:17:20,223 - my_logger - INFO - sft----0.5718591213226318, rlhf----0.5029498338699341
+2025-10-25 13:17:20,223 - my_logger - INFO - Begin to process 44/390 normal samples with index 75
+2025-10-25 13:17:20,300 - my_logger - INFO - sft----0.5636366009712219, rlhf----0.5283607840538025
+2025-10-25 13:17:20,300 - my_logger - INFO - Begin to process 45/390 normal samples with index 76
+2025-10-25 13:17:20,448 - my_logger - INFO - sft----0.6222915649414062, rlhf----0.5204731822013855
+2025-10-25 13:17:20,448 - my_logger - INFO - Begin to process 46/390 normal samples with index 77
+2025-10-25 13:17:20,595 - my_logger - INFO - sft----0.6671061515808105, rlhf----0.512809693813324
+2025-10-25 13:17:20,595 - my_logger - INFO - Begin to process 47/390 normal samples with index 78
+2025-10-25 13:17:20,672 - my_logger - INFO - sft----0.5326527953147888, rlhf----0.49165642261505127
+2025-10-25 13:17:20,672 - my_logger - INFO - Begin to process 48/390 normal samples with index 81
+2025-10-25 13:17:20,763 - my_logger - INFO - sft----0.5655311346054077, rlhf----0.5218460559844971
+2025-10-25 13:17:20,763 - my_logger - INFO - Begin to process 49/390 normal samples with index 84
+2025-10-25 13:17:20,841 - my_logger - INFO - sft----0.5925150513648987, rlhf----0.5383526086807251
+2025-10-25 13:17:20,841 - my_logger - INFO - Begin to process 50/390 normal samples with index 85
+2025-10-25 13:17:20,990 - my_logger - INFO - sft----0.6500279903411865, rlhf----0.49998739361763
+2025-10-25 13:17:20,990 - my_logger - INFO - Begin to process 51/390 normal samples with index 86
+2025-10-25 13:17:21,080 - my_logger - INFO - sft----0.5882748365402222, rlhf----0.5405382513999939
+2025-10-25 13:17:21,080 - my_logger - INFO - Begin to process 52/390 normal samples with index 87
+2025-10-25 13:17:21,159 - my_logger - INFO - sft----0.5423694252967834, rlhf----0.5021083354949951
+2025-10-25 13:17:21,159 - my_logger - INFO - Begin to process 53/390 normal samples with index 88
+2025-10-25 13:17:21,227 - my_logger - INFO - sft----0.5165736079216003, rlhf----0.49867117404937744
+2025-10-25 13:17:21,227 - my_logger - INFO - Begin to process 54/390 normal samples with index 89
+2025-10-25 13:17:21,327 - my_logger - INFO - sft----0.5733265280723572, rlhf----0.5068713426589966
+2025-10-25 13:17:21,327 - my_logger - INFO - Begin to process 55/390 normal samples with index 90
+2025-10-25 13:17:21,409 - my_logger - INFO - sft----0.5400969982147217, rlhf----0.49269506335258484
+2025-10-25 13:17:21,409 - my_logger - INFO - Begin to process 56/390 normal samples with index 91
+2025-10-25 13:17:21,475 - my_logger - INFO - sft----0.5025427341461182, rlhf----0.471603661775589
+2025-10-25 13:17:21,475 - my_logger - INFO - Begin to process 57/390 normal samples with index 92
+2025-10-25 13:17:21,574 - my_logger - INFO - sft----0.5464529991149902, rlhf----0.5045527219772339
+2025-10-25 13:17:21,575 - my_logger - INFO - Begin to process 58/390 normal samples with index 94
+2025-10-25 13:17:21,720 - my_logger - INFO - sft----0.6459741592407227, rlhf----0.538277268409729
+2025-10-25 13:17:21,720 - my_logger - INFO - Begin to process 59/390 normal samples with index 95
+2025-10-25 13:17:21,791 - my_logger - INFO - sft----0.602862536907196, rlhf----0.5310190916061401
+2025-10-25 13:17:21,791 - my_logger - INFO - Begin to process 60/390 normal samples with index 98
+2025-10-25 13:17:21,869 - my_logger - INFO - sft----0.5154380798339844, rlhf----0.5011559724807739
+2025-10-25 13:17:21,869 - my_logger - INFO - Begin to process 61/390 normal samples with index 100
+2025-10-25 13:17:21,967 - my_logger - INFO - sft----0.6066665649414062, rlhf----0.5219247937202454
+2025-10-25 13:17:21,968 - my_logger - INFO - Begin to process 62/390 normal samples with index 102
+2025-10-25 13:17:22,035 - my_logger - INFO - sft----0.49851712584495544, rlhf----0.4814700484275818
+2025-10-25 13:17:22,035 - my_logger - INFO - Begin to process 63/390 normal samples with index 103
+2025-10-25 13:17:22,123 - my_logger - INFO - sft----0.6250845789909363, rlhf----0.5428922176361084
+2025-10-25 13:17:22,123 - my_logger - INFO - Begin to process 64/390 normal samples with index 104
+2025-10-25 13:17:22,210 - my_logger - INFO - sft----0.5263636112213135, rlhf----0.47798728942871094
+2025-10-25 13:17:22,211 - my_logger - INFO - Begin to process 65/390 normal samples with index 107
+2025-10-25 13:17:22,308 - my_logger - INFO - sft----0.619006872177124, rlhf----0.5570521354675293
+2025-10-25 13:17:22,308 - my_logger - INFO - Begin to process 66/390 normal samples with index 108
+2025-10-25 13:17:22,396 - my_logger - INFO - sft----0.5285395979881287, rlhf----0.49350297451019287
+2025-10-25 13:17:22,396 - my_logger - INFO - Begin to process 67/390 normal samples with index 111
+2025-10-25 13:17:22,542 - my_logger - INFO - sft----0.6248173713684082, rlhf----0.5194262862205505
+2025-10-25 13:17:22,542 - my_logger - INFO - Begin to process 68/390 normal samples with index 114
+2025-10-25 13:17:22,621 - my_logger - INFO - sft----0.5800471901893616, rlhf----0.5505935549736023
+2025-10-25 13:17:22,621 - my_logger - INFO - Begin to process 69/390 normal samples with index 115
+2025-10-25 13:17:22,768 - my_logger - INFO - sft----0.6542955636978149, rlhf----0.5193109512329102
+2025-10-25 13:17:22,768 - my_logger - INFO - Begin to process 70/390 normal samples with index 116
+2025-10-25 13:17:22,846 - my_logger - INFO - sft----0.5679755210876465, rlhf----0.5340576171875
+2025-10-25 13:17:22,846 - my_logger - INFO - Begin to process 71/390 normal samples with index 120
+2025-10-25 13:17:22,911 - my_logger - INFO - sft----0.5176685452461243, rlhf----0.511859655380249
+2025-10-25 13:17:22,911 - my_logger - INFO - Begin to process 72/390 normal samples with index 123
+2025-10-25 13:17:22,978 - my_logger - INFO - sft----0.5540949702262878, rlhf----0.5118919014930725
+2025-10-25 13:17:22,978 - my_logger - INFO - Begin to process 73/390 normal samples with index 124
+2025-10-25 13:17:23,057 - my_logger - INFO - sft----0.5347980856895447, rlhf----0.5073642730712891
+2025-10-25 13:17:23,057 - my_logger - INFO - Begin to process 74/390 normal samples with index 127
+2025-10-25 13:17:23,153 - my_logger - INFO - sft----0.5609022378921509, rlhf----0.48436230421066284
+2025-10-25 13:17:23,153 - my_logger - INFO - Begin to process 75/390 normal samples with index 131
+2025-10-25 13:17:23,233 - my_logger - INFO - sft----0.551345705986023, rlhf----0.507972002029419
+2025-10-25 13:17:23,233 - my_logger - INFO - Begin to process 76/390 normal samples with index 133
+2025-10-25 13:17:23,302 - my_logger - INFO - sft----0.5230632424354553, rlhf----0.5044528245925903
+2025-10-25 13:17:23,302 - my_logger - INFO - Begin to process 77/390 normal samples with index 135
+2025-10-25 13:17:23,369 - my_logger - INFO - sft----0.6671427488327026, rlhf----0.6010633111000061
+2025-10-25 13:17:23,369 - my_logger - INFO - Begin to process 78/390 normal samples with index 136
+2025-10-25 13:17:23,469 - my_logger - INFO - sft----0.6261728405952454, rlhf----0.571374773979187
+2025-10-25 13:17:23,469 - my_logger - INFO - Begin to process 79/390 normal samples with index 137
+2025-10-25 13:17:23,571 - my_logger - INFO - sft----0.6008110046386719, rlhf----0.5614579916000366
+2025-10-25 13:17:23,571 - my_logger - INFO - Begin to process 80/390 normal samples with index 138
+2025-10-25 13:17:23,689 - my_logger - INFO - sft----0.5895236134529114, rlhf----0.5547619462013245
+2025-10-25 13:17:23,689 - my_logger - INFO - Begin to process 81/390 normal samples with index 139
+2025-10-25 13:17:23,814 - my_logger - INFO - sft----0.5667612552642822, rlhf----0.5463945269584656
+2025-10-25 13:17:23,814 - my_logger - INFO - Begin to process 82/390 normal samples with index 140
+2025-10-25 13:17:23,902 - my_logger - INFO - sft----0.5890575647354126, rlhf----0.5547947883605957
+2025-10-25 13:17:23,902 - my_logger - INFO - Begin to process 83/390 normal samples with index 141
+2025-10-25 13:17:24,009 - my_logger - INFO - sft----0.5686997175216675, rlhf----0.5037828087806702
+2025-10-25 13:17:24,009 - my_logger - INFO - Begin to process 84/390 normal samples with index 144
+2025-10-25 13:17:24,091 - my_logger - INFO - sft----0.5664055943489075, rlhf----0.4972768723964691
+2025-10-25 13:17:24,091 - my_logger - INFO - Begin to process 85/390 normal samples with index 145
+2025-10-25 13:17:24,183 - my_logger - INFO - sft----0.5602973699569702, rlhf----0.5093845129013062
+2025-10-25 13:17:24,183 - my_logger - INFO - Begin to process 86/390 normal samples with index 146
+2025-10-25 13:17:24,285 - my_logger - INFO - sft----0.6354638934135437, rlhf----0.5814832448959351
+2025-10-25 13:17:24,285 - my_logger - INFO - Begin to process 87/390 normal samples with index 151
+2025-10-25 13:17:24,384 - my_logger - INFO - sft----0.5753222703933716, rlhf----0.5568110346794128
+2025-10-25 13:17:24,384 - my_logger - INFO - Begin to process 88/390 normal samples with index 152
+2025-10-25 13:17:24,464 - my_logger - INFO - sft----0.5642601251602173, rlhf----0.5615883469581604
+2025-10-25 13:17:24,465 - my_logger - INFO - Begin to process 89/390 normal samples with index 153
+2025-10-25 13:17:24,612 - my_logger - INFO - sft----0.5716922283172607, rlhf----0.5169181823730469
+2025-10-25 13:17:24,612 - my_logger - INFO - Begin to process 90/390 normal samples with index 154
+2025-10-25 13:17:24,692 - my_logger - INFO - sft----0.5536861419677734, rlhf----0.5333333015441895
+2025-10-25 13:17:24,693 - my_logger - INFO - Begin to process 91/390 normal samples with index 156
+2025-10-25 13:17:24,899 - my_logger - INFO - sft----0.5353013277053833, rlhf----0.5467232465744019
+2025-10-25 13:17:24,899 - my_logger - INFO - Begin to process 92/390 normal samples with index 157
+2025-10-25 13:17:24,988 - my_logger - INFO - sft----0.5754958987236023, rlhf----0.5490750670433044
+2025-10-25 13:17:24,988 - my_logger - INFO - Begin to process 93/390 normal samples with index 162
+2025-10-25 13:17:25,107 - my_logger - INFO - sft----0.6440014243125916, rlhf----0.5974565148353577
+2025-10-25 13:17:25,108 - my_logger - INFO - Begin to process 94/390 normal samples with index 163
+2025-10-25 13:17:25,176 - my_logger - INFO - sft----0.583584725856781, rlhf----0.5498244166374207
+2025-10-25 13:17:25,176 - my_logger - INFO - Begin to process 95/390 normal samples with index 164
+2025-10-25 13:17:25,242 - my_logger - INFO - sft----0.5830309391021729, rlhf----0.5510402321815491
+2025-10-25 13:17:25,242 - my_logger - INFO - Begin to process 96/390 normal samples with index 165
+2025-10-25 13:17:25,316 - my_logger - INFO - sft----0.6149659156799316, rlhf----0.5872004628181458
+2025-10-25 13:17:25,316 - my_logger - INFO - Begin to process 97/390 normal samples with index 166
+2025-10-25 13:17:25,396 - my_logger - INFO - sft----0.6285066604614258, rlhf----0.5646045207977295
+2025-10-25 13:17:25,396 - my_logger - INFO - Begin to process 98/390 normal samples with index 171
+2025-10-25 13:17:25,513 - my_logger - INFO - sft----0.555934488773346, rlhf----0.5440076589584351
+2025-10-25 13:17:25,513 - my_logger - INFO - Begin to process 99/390 normal samples with index 172
+2025-10-25 13:17:25,589 - my_logger - INFO - sft----0.6371316313743591, rlhf----0.5528508424758911
+2025-10-25 13:17:25,590 - my_logger - INFO - Begin to process 100/390 normal samples with index 174
+2025-10-25 13:17:25,658 - my_logger - INFO - sft----0.540052592754364, rlhf----0.52540522813797
+2025-10-25 13:17:25,658 - my_logger - INFO - Begin to process 101/390 normal samples with index 176
+2025-10-25 13:17:25,804 - my_logger - INFO - sft----0.5451861023902893, rlhf----0.5414424538612366
+2025-10-25 13:17:25,804 - my_logger - INFO - Begin to process 102/390 normal samples with index 177
+2025-10-25 13:17:25,912 - my_logger - INFO - sft----0.5876011252403259, rlhf----0.5713586211204529
+2025-10-25 13:17:25,912 - my_logger - INFO - Begin to process 103/390 normal samples with index 179
+2025-10-25 13:17:25,991 - my_logger - INFO - sft----0.6009947657585144, rlhf----0.5242771506309509
+2025-10-25 13:17:25,991 - my_logger - INFO - Begin to process 104/390 normal samples with index 180
+2025-10-25 13:17:26,108 - my_logger - INFO - sft----0.5856176018714905, rlhf----0.5670734643936157
+2025-10-25 13:17:26,108 - my_logger - INFO - Begin to process 105/390 normal samples with index 181
+2025-10-25 13:17:26,185 - my_logger - INFO - sft----0.5676437020301819, rlhf----0.5131746530532837
+2025-10-25 13:17:26,185 - my_logger - INFO - Begin to process 106/390 normal samples with index 182
+2025-10-25 13:17:26,297 - my_logger - INFO - sft----0.5536584258079529, rlhf----0.5146670937538147
+2025-10-25 13:17:26,297 - my_logger - INFO - Begin to process 107/390 normal samples with index 183
+2025-10-25 13:17:26,389 - my_logger - INFO - sft----0.599172830581665, rlhf----0.5721310973167419
+2025-10-25 13:17:26,389 - my_logger - INFO - Begin to process 108/390 normal samples with index 184
+2025-10-25 13:17:26,458 - my_logger - INFO - sft----0.5701497793197632, rlhf----0.5338615775108337
+2025-10-25 13:17:26,458 - my_logger - INFO - Begin to process 109/390 normal samples with index 185
+2025-10-25 13:17:26,534 - my_logger - INFO - sft----0.6363522410392761, rlhf----0.5472815632820129
+2025-10-25 13:17:26,535 - my_logger - INFO - Begin to process 110/390 normal samples with index 188
+2025-10-25 13:17:26,726 - my_logger - INFO - sft----0.6044338345527649, rlhf----0.5335370898246765
+2025-10-25 13:17:26,727 - my_logger - INFO - Begin to process 111/390 normal samples with index 190
+2025-10-25 13:17:26,797 - my_logger - INFO - sft----0.6617956161499023, rlhf----0.5813619494438171
+2025-10-25 13:17:26,797 - my_logger - INFO - Begin to process 112/390 normal samples with index 191
+2025-10-25 13:17:26,879 - my_logger - INFO - sft----0.5896942019462585, rlhf----0.532277524471283
+2025-10-25 13:17:26,879 - my_logger - INFO - Begin to process 113/390 normal samples with index 193
+2025-10-25 13:17:26,965 - my_logger - INFO - sft----0.6056336164474487, rlhf----0.5713773965835571
+2025-10-25 13:17:26,966 - my_logger - INFO - Begin to process 114/390 normal samples with index 194
+2025-10-25 13:17:27,047 - my_logger - INFO - sft----0.5913304090499878, rlhf----0.5543824434280396
+2025-10-25 13:17:27,047 - my_logger - INFO - Begin to process 115/390 normal samples with index 196
+2025-10-25 13:17:27,141 - my_logger - INFO - sft----0.5415604710578918, rlhf----0.5265808701515198
+2025-10-25 13:17:27,141 - my_logger - INFO - Begin to process 116/390 normal samples with index 197
+2025-10-25 13:17:27,210 - my_logger - INFO - sft----0.5652564167976379, rlhf----0.5239697098731995
+2025-10-25 13:17:27,211 - my_logger - INFO - Begin to process 117/390 normal samples with index 200
+2025-10-25 13:17:27,280 - my_logger - INFO - sft----0.5377068519592285, rlhf----0.535067617893219
+2025-10-25 13:17:27,280 - my_logger - INFO - Begin to process 118/390 normal samples with index 201
+2025-10-25 13:17:27,390 - my_logger - INFO - sft----0.6272317171096802, rlhf----0.5870797634124756
+2025-10-25 13:17:27,390 - my_logger - INFO - Begin to process 119/390 normal samples with index 202
+2025-10-25 13:17:27,479 - my_logger - INFO - sft----0.5716270208358765, rlhf----0.5262739658355713
+2025-10-25 13:17:27,480 - my_logger - INFO - Begin to process 120/390 normal samples with index 203
+2025-10-25 13:17:27,687 - my_logger - INFO - sft----0.6173277497291565, rlhf----0.5591955780982971
+2025-10-25 13:17:27,687 - my_logger - INFO - Begin to process 121/390 normal samples with index 204
+2025-10-25 13:17:27,760 - my_logger - INFO - sft----0.5849961042404175, rlhf----0.5762817859649658
+2025-10-25 13:17:27,761 - my_logger - INFO - Begin to process 122/390 normal samples with index 205
+2025-10-25 13:17:27,867 - my_logger - INFO - sft----0.5822774767875671, rlhf----0.5145586133003235
+2025-10-25 13:17:27,867 - my_logger - INFO - Begin to process 123/390 normal samples with index 206
+2025-10-25 13:17:27,989 - my_logger - INFO - sft----0.6437342762947083, rlhf----0.5795227885246277
+2025-10-25 13:17:27,989 - my_logger - INFO - Begin to process 124/390 normal samples with index 208
+2025-10-25 13:17:28,088 - my_logger - INFO - sft----0.5638799667358398, rlhf----0.5156499147415161
+2025-10-25 13:17:28,088 - my_logger - INFO - Begin to process 125/390 normal samples with index 209
+2025-10-25 13:17:28,167 - my_logger - INFO - sft----0.5264831781387329, rlhf----0.5173002481460571
+2025-10-25 13:17:28,167 - my_logger - INFO - Begin to process 126/390 normal samples with index 211
+2025-10-25 13:17:28,238 - my_logger - INFO - sft----0.6040108799934387, rlhf----0.5301234126091003
+2025-10-25 13:17:28,238 - my_logger - INFO - Begin to process 127/390 normal samples with index 213
+2025-10-25 13:17:28,326 - my_logger - INFO - sft----0.6266210079193115, rlhf----0.5293817520141602
+2025-10-25 13:17:28,326 - my_logger - INFO - Begin to process 128/390 normal samples with index 215
+2025-10-25 13:17:28,414 - my_logger - INFO - sft----0.5369163751602173, rlhf----0.4848048985004425
+2025-10-25 13:17:28,414 - my_logger - INFO - Begin to process 129/390 normal samples with index 216
+2025-10-25 13:17:28,524 - my_logger - INFO - sft----0.5729256272315979, rlhf----0.5132135152816772
+2025-10-25 13:17:28,524 - my_logger - INFO - Begin to process 130/390 normal samples with index 222
+2025-10-25 13:17:28,595 - my_logger - INFO - sft----0.5555108189582825, rlhf----0.5158759951591492
+2025-10-25 13:17:28,595 - my_logger - INFO - Begin to process 131/390 normal samples with index 223
+2025-10-25 13:17:28,677 - my_logger - INFO - sft----0.5796316266059875, rlhf----0.5482893586158752
+2025-10-25 13:17:28,678 - my_logger - INFO - Begin to process 132/390 normal samples with index 225
+2025-10-25 13:17:28,748 - my_logger - INFO - sft----0.587813138961792, rlhf----0.5062524080276489
+2025-10-25 13:17:28,748 - my_logger - INFO - Begin to process 133/390 normal samples with index 226
+2025-10-25 13:17:28,849 - my_logger - INFO - sft----0.5866383910179138, rlhf----0.5615324378013611
+2025-10-25 13:17:28,849 - my_logger - INFO - Begin to process 134/390 normal samples with index 227
+2025-10-25 13:17:28,926 - my_logger - INFO - sft----0.6147427558898926, rlhf----0.5646145939826965
+2025-10-25 13:17:28,926 - my_logger - INFO - Begin to process 135/390 normal samples with index 229
+2025-10-25 13:17:29,030 - my_logger - INFO - sft----0.6153836250305176, rlhf----0.5680418610572815
+2025-10-25 13:17:29,030 - my_logger - INFO - Begin to process 136/390 normal samples with index 231
+2025-10-25 13:17:29,119 - my_logger - INFO - sft----0.5603411793708801, rlhf----0.5360180139541626
+2025-10-25 13:17:29,119 - my_logger - INFO - Begin to process 137/390 normal samples with index 234
+2025-10-25 13:17:29,194 - my_logger - INFO - sft----0.6306104063987732, rlhf----0.5442982316017151
+2025-10-25 13:17:29,194 - my_logger - INFO - Begin to process 138/390 normal samples with index 236
+2025-10-25 13:17:29,277 - my_logger - INFO - sft----0.5654210448265076, rlhf----0.5528699159622192
+2025-10-25 13:17:29,277 - my_logger - INFO - Begin to process 139/390 normal samples with index 240
+2025-10-25 13:17:29,358 - my_logger - INFO - sft----0.5770949125289917, rlhf----0.5410199761390686
+2025-10-25 13:17:29,359 - my_logger - INFO - Begin to process 140/390 normal samples with index 243
+2025-10-25 13:17:29,459 - my_logger - INFO - sft----0.5643967986106873, rlhf----0.5519656538963318
+2025-10-25 13:17:29,460 - my_logger - INFO - Begin to process 141/390 normal samples with index 247
+2025-10-25 13:17:29,530 - my_logger - INFO - sft----0.5701379776000977, rlhf----0.5184128284454346
+2025-10-25 13:17:29,530 - my_logger - INFO - Begin to process 142/390 normal samples with index 248
+2025-10-25 13:17:29,635 - my_logger - INFO - sft----0.595329761505127, rlhf----0.5400930047035217
+2025-10-25 13:17:29,636 - my_logger - INFO - Begin to process 143/390 normal samples with index 251
+2025-10-25 13:17:29,728 - my_logger - INFO - sft----0.6534328460693359, rlhf----0.5871840119361877
+2025-10-25 13:17:29,728 - my_logger - INFO - Begin to process 144/390 normal samples with index 252
+2025-10-25 13:17:29,826 - my_logger - INFO - sft----0.5954954028129578, rlhf----0.5311323404312134
+2025-10-25 13:17:29,826 - my_logger - INFO - Begin to process 145/390 normal samples with index 253
+2025-10-25 13:17:29,905 - my_logger - INFO - sft----0.5693610310554504, rlhf----0.5317865610122681
+2025-10-25 13:17:29,905 - my_logger - INFO - Begin to process 146/390 normal samples with index 255
+2025-10-25 13:17:29,984 - my_logger - INFO - sft----0.6344703435897827, rlhf----0.5486732125282288
+2025-10-25 13:17:29,984 - my_logger - INFO - Begin to process 147/390 normal samples with index 261
+2025-10-25 13:17:30,051 - my_logger - INFO - sft----0.5942287445068359, rlhf----0.5263980031013489
+2025-10-25 13:17:30,051 - my_logger - INFO - Begin to process 148/390 normal samples with index 263
+2025-10-25 13:17:30,181 - my_logger - INFO - sft----0.5281884670257568, rlhf----0.5313587784767151
+2025-10-25 13:17:30,181 - my_logger - INFO - Begin to process 149/390 normal samples with index 269
+2025-10-25 13:17:30,284 - my_logger - INFO - sft----0.6201654672622681, rlhf----0.619134247303009
+2025-10-25 13:17:30,285 - my_logger - INFO - Begin to process 150/390 normal samples with index 270
+2025-10-25 13:17:30,375 - my_logger - INFO - sft----0.6380506157875061, rlhf----0.5924859642982483
+2025-10-25 13:17:30,375 - my_logger - INFO - Begin to process 151/390 normal samples with index 271
+2025-10-25 13:17:30,463 - my_logger - INFO - sft----0.5476769208908081, rlhf----0.5385844707489014
+2025-10-25 13:17:30,463 - my_logger - INFO - Begin to process 152/390 normal samples with index 272
+2025-10-25 13:17:30,531 - my_logger - INFO - sft----0.6767075061798096, rlhf----0.6090093851089478
+2025-10-25 13:17:30,531 - my_logger - INFO - Begin to process 153/390 normal samples with index 273
+2025-10-25 13:17:30,631 - my_logger - INFO - sft----0.5767031908035278, rlhf----0.559019148349762
+2025-10-25 13:17:30,632 - my_logger - INFO - Begin to process 154/390 normal samples with index 274
+2025-10-25 13:17:30,709 - my_logger - INFO - sft----0.7044184803962708, rlhf----0.6464541554450989
+2025-10-25 13:17:30,709 - my_logger - INFO - Begin to process 155/390 normal samples with index 275
+2025-10-25 13:17:30,784 - my_logger - INFO - sft----0.6275185346603394, rlhf----0.5779180526733398
+2025-10-25 13:17:30,784 - my_logger - INFO - Begin to process 156/390 normal samples with index 277
+2025-10-25 13:17:30,877 - my_logger - INFO - sft----0.5947152376174927, rlhf----0.5542072653770447
+2025-10-25 13:17:30,878 - my_logger - INFO - Begin to process 157/390 normal samples with index 278
+2025-10-25 13:17:30,969 - my_logger - INFO - sft----0.5901928544044495, rlhf----0.5510846376419067
+2025-10-25 13:17:30,969 - my_logger - INFO - Begin to process 158/390 normal samples with index 281
+2025-10-25 13:17:31,086 - my_logger - INFO - sft----0.5533494353294373, rlhf----0.5059397220611572
+2025-10-25 13:17:31,086 - my_logger - INFO - Begin to process 159/390 normal samples with index 282
+2025-10-25 13:17:31,162 - my_logger - INFO - sft----0.6845178604125977, rlhf----0.5985289812088013
+2025-10-25 13:17:31,162 - my_logger - INFO - Begin to process 160/390 normal samples with index 288
+2025-10-25 13:17:31,254 - my_logger - INFO - sft----0.5915099382400513, rlhf----0.5242264270782471
+2025-10-25 13:17:31,254 - my_logger - INFO - Begin to process 161/390 normal samples with index 289
+2025-10-25 13:17:31,334 - my_logger - INFO - sft----0.5350392460823059, rlhf----0.5248609781265259
+2025-10-25 13:17:31,334 - my_logger - INFO - Begin to process 162/390 normal samples with index 295
+2025-10-25 13:17:31,430 - my_logger - INFO - sft----0.5694608688354492, rlhf----0.5297131538391113
+2025-10-25 13:17:31,430 - my_logger - INFO - Begin to process 163/390 normal samples with index 297
+2025-10-25 13:17:31,501 - my_logger - INFO - sft----0.54937344789505, rlhf----0.526843249797821
+2025-10-25 13:17:31,501 - my_logger - INFO - Begin to process 164/390 normal samples with index 300
+2025-10-25 13:17:31,607 - my_logger - INFO - sft----0.5465310215950012, rlhf----0.5246871113777161
+2025-10-25 13:17:31,607 - my_logger - INFO - Begin to process 165/390 normal samples with index 301
+2025-10-25 13:17:31,685 - my_logger - INFO - sft----0.47357800602912903, rlhf----0.45399224758148193
+2025-10-25 13:17:31,686 - my_logger - INFO - Begin to process 166/390 normal samples with index 306
+2025-10-25 13:17:31,785 - my_logger - INFO - sft----0.6289354562759399, rlhf----0.5201808214187622
+2025-10-25 13:17:31,785 - my_logger - INFO - Begin to process 167/390 normal samples with index 310
+2025-10-25 13:17:31,888 - my_logger - INFO - sft----0.6258041262626648, rlhf----0.5786224603652954
+2025-10-25 13:17:31,888 - my_logger - INFO - Begin to process 168/390 normal samples with index 313
+2025-10-25 13:17:31,967 - my_logger - INFO - sft----0.6150891780853271, rlhf----0.578851580619812
+2025-10-25 13:17:31,967 - my_logger - INFO - Begin to process 169/390 normal samples with index 314
+2025-10-25 13:17:32,043 - my_logger - INFO - sft----0.5512506365776062, rlhf----0.5148024559020996
+2025-10-25 13:17:32,043 - my_logger - INFO - Begin to process 170/390 normal samples with index 316
+2025-10-25 13:17:32,132 - my_logger - INFO - sft----0.591160774230957, rlhf----0.5428195595741272
+2025-10-25 13:17:32,132 - my_logger - INFO - Begin to process 171/390 normal samples with index 317
+2025-10-25 13:17:32,207 - my_logger - INFO - sft----0.5209679007530212, rlhf----0.48540541529655457
+2025-10-25 13:17:32,207 - my_logger - INFO - Begin to process 172/390 normal samples with index 318
+2025-10-25 13:17:32,275 - my_logger - INFO - sft----0.5627142190933228, rlhf----0.5107685327529907
+2025-10-25 13:17:32,275 - my_logger - INFO - Begin to process 173/390 normal samples with index 319
+2025-10-25 13:17:32,427 - my_logger - INFO - sft----0.6573863625526428, rlhf----0.566735565662384
+2025-10-25 13:17:32,427 - my_logger - INFO - Begin to process 174/390 normal samples with index 321
+2025-10-25 13:17:32,517 - my_logger - INFO - sft----0.727470874786377, rlhf----0.5759317874908447
+2025-10-25 13:17:32,517 - my_logger - INFO - Begin to process 175/390 normal samples with index 322
+2025-10-25 13:17:32,587 - my_logger - INFO - sft----0.5811479091644287, rlhf----0.5076305270195007
+2025-10-25 13:17:32,587 - my_logger - INFO - Begin to process 176/390 normal samples with index 323
+2025-10-25 13:17:32,667 - my_logger - INFO - sft----0.6014865040779114, rlhf----0.5515381097793579
+2025-10-25 13:17:32,667 - my_logger - INFO - Begin to process 177/390 normal samples with index 324
+2025-10-25 13:17:32,768 - my_logger - INFO - sft----0.6229693293571472, rlhf----0.5686789751052856
+2025-10-25 13:17:32,768 - my_logger - INFO - Begin to process 178/390 normal samples with index 328
+2025-10-25 13:17:32,866 - my_logger - INFO - sft----0.620084285736084, rlhf----0.573529839515686
+2025-10-25 13:17:32,867 - my_logger - INFO - Begin to process 179/390 normal samples with index 329
+2025-10-25 13:17:32,947 - my_logger - INFO - sft----0.5833293795585632, rlhf----0.5174519419670105
+2025-10-25 13:17:32,947 - my_logger - INFO - Begin to process 180/390 normal samples with index 331
+2025-10-25 13:17:33,061 - my_logger - INFO - sft----0.6039877533912659, rlhf----0.5271615386009216
+2025-10-25 13:17:33,061 - my_logger - INFO - Begin to process 181/390 normal samples with index 332
+2025-10-25 13:17:33,126 - my_logger - INFO - sft----0.4796764850616455, rlhf----0.4849078059196472
+2025-10-25 13:17:33,126 - my_logger - INFO - Begin to process 182/390 normal samples with index 341
+2025-10-25 13:17:33,213 - my_logger - INFO - sft----0.5863291025161743, rlhf----0.5282689332962036
+2025-10-25 13:17:33,213 - my_logger - INFO - Begin to process 183/390 normal samples with index 342
+2025-10-25 13:17:33,286 - my_logger - INFO - sft----0.5621649026870728, rlhf----0.5497874617576599
+2025-10-25 13:17:33,286 - my_logger - INFO - Begin to process 184/390 normal samples with index 344
+2025-10-25 13:17:33,374 - my_logger - INFO - sft----0.577815592288971, rlhf----0.5440353751182556
+2025-10-25 13:17:33,374 - my_logger - INFO - Begin to process 185/390 normal samples with index 346
+2025-10-25 13:17:33,444 - my_logger - INFO - sft----0.5753691792488098, rlhf----0.5087603330612183
+2025-10-25 13:17:33,444 - my_logger - INFO - Begin to process 186/390 normal samples with index 347
+2025-10-25 13:17:33,522 - my_logger - INFO - sft----0.6272959113121033, rlhf----0.5748258829116821
+2025-10-25 13:17:33,523 - my_logger - INFO - Begin to process 187/390 normal samples with index 349
+2025-10-25 13:17:33,594 - my_logger - INFO - sft----0.714099109172821, rlhf----0.6046938896179199
+2025-10-25 13:17:33,594 - my_logger - INFO - Begin to process 188/390 normal samples with index 354
+2025-10-25 13:17:33,694 - my_logger - INFO - sft----0.614818811416626, rlhf----0.48841392993927
+2025-10-25 13:17:33,694 - my_logger - INFO - Begin to process 189/390 normal samples with index 355
+2025-10-25 13:17:33,774 - my_logger - INFO - sft----0.6160111427307129, rlhf----0.558241069316864
+2025-10-25 13:17:33,774 - my_logger - INFO - Begin to process 190/390 normal samples with index 356
+2025-10-25 13:17:33,854 - my_logger - INFO - sft----0.6291127800941467, rlhf----0.5622566342353821
+2025-10-25 13:17:33,855 - my_logger - INFO - Begin to process 191/390 normal samples with index 358
+2025-10-25 13:17:33,995 - my_logger - INFO - sft----0.6059414148330688, rlhf----0.5691124796867371
+2025-10-25 13:17:33,995 - my_logger - INFO - Begin to process 192/390 normal samples with index 360
+2025-10-25 13:17:34,076 - my_logger - INFO - sft----0.5843939185142517, rlhf----0.5165970921516418
+2025-10-25 13:17:34,076 - my_logger - INFO - Begin to process 193/390 normal samples with index 363
+2025-10-25 13:17:34,177 - my_logger - INFO - sft----0.6072071194648743, rlhf----0.5572881698608398
+2025-10-25 13:17:34,177 - my_logger - INFO - Begin to process 194/390 normal samples with index 365
+2025-10-25 13:17:34,263 - my_logger - INFO - sft----0.6386861205101013, rlhf----0.5629094243049622
+2025-10-25 13:17:34,263 - my_logger - INFO - Begin to process 195/390 normal samples with index 366
+2025-10-25 13:17:34,329 - my_logger - INFO - sft----0.6555649042129517, rlhf----0.5935257077217102
+2025-10-25 13:17:34,329 - my_logger - INFO - Begin to process 196/390 normal samples with index 372
+2025-10-25 13:17:34,423 - my_logger - INFO - sft----0.6190990805625916, rlhf----0.535810112953186
+2025-10-25 13:17:34,423 - my_logger - INFO - Begin to process 197/390 normal samples with index 373
+2025-10-25 13:17:34,513 - my_logger - INFO - sft----0.6221057772636414, rlhf----0.5765126347541809
+2025-10-25 13:17:34,513 - my_logger - INFO - Begin to process 198/390 normal samples with index 374
+2025-10-25 13:17:34,601 - my_logger - INFO - sft----0.5796908736228943, rlhf----0.5502011775970459
+2025-10-25 13:17:34,601 - my_logger - INFO - Begin to process 199/390 normal samples with index 380
+2025-10-25 13:17:34,679 - my_logger - INFO - sft----0.537382960319519, rlhf----0.507316529750824
+2025-10-25 13:17:34,679 - my_logger - INFO - Begin to process 200/390 normal samples with index 381
+2025-10-25 13:17:34,785 - my_logger - INFO - sft----0.596219003200531, rlhf----0.5168067216873169
+2025-10-25 13:17:34,785 - my_logger - INFO - Begin to process 201/390 normal samples with index 382
+2025-10-25 13:17:34,880 - my_logger - INFO - sft----0.6129137873649597, rlhf----0.5435985326766968
+2025-10-25 13:17:34,880 - my_logger - INFO - Begin to process 202/390 normal samples with index 387
+2025-10-25 13:17:34,956 - my_logger - INFO - sft----0.5254701375961304, rlhf----0.480056494474411
+2025-10-25 13:17:34,956 - my_logger - INFO - Begin to process 203/390 normal samples with index 393
+2025-10-25 13:17:35,036 - my_logger - INFO - sft----0.5518369078636169, rlhf----0.5204840302467346
+2025-10-25 13:17:35,036 - my_logger - INFO - Begin to process 204/390 normal samples with index 394
+2025-10-25 13:17:35,134 - my_logger - INFO - sft----0.6199626922607422, rlhf----0.5584536194801331
+2025-10-25 13:17:35,135 - my_logger - INFO - Begin to process 205/390 normal samples with index 399
+2025-10-25 13:17:35,270 - my_logger - INFO - sft----0.5961219072341919, rlhf----0.5303654670715332
+2025-10-25 13:17:35,270 - my_logger - INFO - Begin to process 206/390 normal samples with index 400
+2025-10-25 13:17:35,340 - my_logger - INFO - sft----0.5672317743301392, rlhf----0.5209615230560303
+2025-10-25 13:17:35,341 - my_logger - INFO - Begin to process 207/390 normal samples with index 401
+2025-10-25 13:17:35,418 - my_logger - INFO - sft----0.6683148145675659, rlhf----0.5472533702850342
+2025-10-25 13:17:35,419 - my_logger - INFO - Begin to process 208/390 normal samples with index 402
+2025-10-25 13:17:35,487 - my_logger - INFO - sft----0.689963161945343, rlhf----0.6165128350257874
+2025-10-25 13:17:35,487 - my_logger - INFO - Begin to process 209/390 normal samples with index 404
+2025-10-25 13:17:35,551 - my_logger - INFO - sft----0.5602490305900574, rlhf----0.5184890627861023
+2025-10-25 13:17:35,551 - my_logger - INFO - Begin to process 210/390 normal samples with index 405
+2025-10-25 13:17:35,653 - my_logger - INFO - sft----0.5925315022468567, rlhf----0.5593706369400024
+2025-10-25 13:17:35,653 - my_logger - INFO - Begin to process 211/390 normal samples with index 406
+2025-10-25 13:17:35,794 - my_logger - INFO - sft----0.6151177883148193, rlhf----0.55899977684021
+2025-10-25 13:17:35,794 - my_logger - INFO - Begin to process 212/390 normal samples with index 407
+2025-10-25 13:17:35,861 - my_logger - INFO - sft----0.49761974811553955, rlhf----0.4967433512210846
+2025-10-25 13:17:35,861 - my_logger - INFO - Begin to process 213/390 normal samples with index 414
+2025-10-25 13:17:35,957 - my_logger - INFO - sft----0.5756374597549438, rlhf----0.539728581905365
+2025-10-25 13:17:35,957 - my_logger - INFO - Begin to process 214/390 normal samples with index 415
+2025-10-25 13:17:36,059 - my_logger - INFO - sft----0.5537198781967163, rlhf----0.5389499664306641
+2025-10-25 13:17:36,059 - my_logger - INFO - Begin to process 215/390 normal samples with index 416
+2025-10-25 13:17:36,147 - my_logger - INFO - sft----0.5923472046852112, rlhf----0.5438705682754517
+2025-10-25 13:17:36,147 - my_logger - INFO - Begin to process 216/390 normal samples with index 417
+2025-10-25 13:17:36,234 - my_logger - INFO - sft----0.7011541724205017, rlhf----0.5831697583198547
+2025-10-25 13:17:36,234 - my_logger - INFO - Begin to process 217/390 normal samples with index 419
+2025-10-25 13:17:36,304 - my_logger - INFO - sft----0.6004952788352966, rlhf----0.5197420120239258
+2025-10-25 13:17:36,304 - my_logger - INFO - Begin to process 218/390 normal samples with index 421
+2025-10-25 13:17:36,416 - my_logger - INFO - sft----0.6370279788970947, rlhf----0.6031020879745483
+2025-10-25 13:17:36,416 - my_logger - INFO - Begin to process 219/390 normal samples with index 425
+2025-10-25 13:17:36,508 - my_logger - INFO - sft----0.567520260810852, rlhf----0.5168564915657043
+2025-10-25 13:17:36,508 - my_logger - INFO - Begin to process 220/390 normal samples with index 427
+2025-10-25 13:17:36,584 - my_logger - INFO - sft----0.664459228515625, rlhf----0.5906538367271423
+2025-10-25 13:17:36,585 - my_logger - INFO - Begin to process 221/390 normal samples with index 429
+2025-10-25 13:17:36,663 - my_logger - INFO - sft----0.6548853516578674, rlhf----0.5732510685920715
+2025-10-25 13:17:36,663 - my_logger - INFO - Begin to process 222/390 normal samples with index 431
+2025-10-25 13:17:36,762 - my_logger - INFO - sft----0.607096791267395, rlhf----0.568881094455719
+2025-10-25 13:17:36,763 - my_logger - INFO - Begin to process 223/390 normal samples with index 432
+2025-10-25 13:17:36,840 - my_logger - INFO - sft----0.5314748883247375, rlhf----0.5033173561096191
+2025-10-25 13:17:36,840 - my_logger - INFO - Begin to process 224/390 normal samples with index 434
+2025-10-25 13:17:36,943 - my_logger - INFO - sft----0.5446875095367432, rlhf----0.5272626876831055
+2025-10-25 13:17:36,943 - my_logger - INFO - Begin to process 225/390 normal samples with index 439
+2025-10-25 13:17:37,029 - my_logger - INFO - sft----0.629226803779602, rlhf----0.5744609832763672
+2025-10-25 13:17:37,029 - my_logger - INFO - Begin to process 226/390 normal samples with index 440
+2025-10-25 13:17:37,094 - my_logger - INFO - sft----0.7117083072662354, rlhf----0.5920537114143372
+2025-10-25 13:17:37,094 - my_logger - INFO - Begin to process 227/390 normal samples with index 441
+2025-10-25 13:17:37,170 - my_logger - INFO - sft----0.5833532810211182, rlhf----0.5743940472602844
+2025-10-25 13:17:37,171 - my_logger - INFO - Begin to process 228/390 normal samples with index 449
+2025-10-25 13:17:37,263 - my_logger - INFO - sft----0.5796365737915039, rlhf----0.5132256150245667
+2025-10-25 13:17:37,264 - my_logger - INFO - Begin to process 229/390 normal samples with index 450
+2025-10-25 13:17:37,352 - my_logger - INFO - sft----0.5709126591682434, rlhf----0.5315492749214172
+2025-10-25 13:17:37,352 - my_logger - INFO - Begin to process 230/390 normal samples with index 451
+2025-10-25 13:17:37,498 - my_logger - INFO - sft----0.5334147214889526, rlhf----0.5435130596160889
+2025-10-25 13:17:37,498 - my_logger - INFO - Begin to process 231/390 normal samples with index 452
+2025-10-25 13:17:37,588 - my_logger - INFO - sft----0.6238863468170166, rlhf----0.565438985824585
+2025-10-25 13:17:37,588 - my_logger - INFO - Begin to process 232/390 normal samples with index 454
+2025-10-25 13:17:37,667 - my_logger - INFO - sft----0.5987517237663269, rlhf----0.5452988743782043
+2025-10-25 13:17:37,667 - my_logger - INFO - Begin to process 233/390 normal samples with index 457
+2025-10-25 13:17:37,732 - my_logger - INFO - sft----0.6993253827095032, rlhf----0.6144180297851562
+2025-10-25 13:17:37,732 - my_logger - INFO - Begin to process 234/390 normal samples with index 459
+2025-10-25 13:17:37,822 - my_logger - INFO - sft----0.5565844774246216, rlhf----0.5496853590011597
+2025-10-25 13:17:37,822 - my_logger - INFO - Begin to process 235/390 normal samples with index 460
+2025-10-25 13:17:37,897 - my_logger - INFO - sft----0.6475967168807983, rlhf----0.5893065333366394
+2025-10-25 13:17:37,898 - my_logger - INFO - Begin to process 236/390 normal samples with index 463
+2025-10-25 13:17:37,970 - my_logger - INFO - sft----0.5327332019805908, rlhf----0.4978521764278412
+2025-10-25 13:17:37,970 - my_logger - INFO - Begin to process 237/390 normal samples with index 464
+2025-10-25 13:17:38,058 - my_logger - INFO - sft----0.6216694712638855, rlhf----0.5423513650894165
+2025-10-25 13:17:38,058 - my_logger - INFO - Begin to process 238/390 normal samples with index 467
+2025-10-25 13:17:38,147 - my_logger - INFO - sft----0.5607315301895142, rlhf----0.538463830947876
+2025-10-25 13:17:38,148 - my_logger - INFO - Begin to process 239/390 normal samples with index 469
+2025-10-25 13:17:38,216 - my_logger - INFO - sft----0.6653331518173218, rlhf----0.586854875087738
+2025-10-25 13:17:38,216 - my_logger - INFO - Begin to process 240/390 normal samples with index 472
+2025-10-25 13:17:38,296 - my_logger - INFO - sft----0.5592275261878967, rlhf----0.5192707180976868
+2025-10-25 13:17:38,296 - my_logger - INFO - Begin to process 241/390 normal samples with index 473
+2025-10-25 13:17:38,362 - my_logger - INFO - sft----0.7943924069404602, rlhf----0.6107110381126404
+2025-10-25 13:17:38,362 - my_logger - INFO - Begin to process 242/390 normal samples with index 475
+2025-10-25 13:17:38,427 - my_logger - INFO - sft----0.6523731350898743, rlhf----0.5628356337547302
+2025-10-25 13:17:38,428 - my_logger - INFO - Begin to process 243/390 normal samples with index 478
+2025-10-25 13:17:38,502 - my_logger - INFO - sft----0.610451340675354, rlhf----0.572611391544342
+2025-10-25 13:17:38,502 - my_logger - INFO - Begin to process 244/390 normal samples with index 479
+2025-10-25 13:17:38,579 - my_logger - INFO - sft----0.6800116896629333, rlhf----0.5867295265197754
+2025-10-25 13:17:38,579 - my_logger - INFO - Begin to process 245/390 normal samples with index 480
+2025-10-25 13:17:38,649 - my_logger - INFO - sft----0.6340162754058838, rlhf----0.5930824279785156
+2025-10-25 13:17:38,650 - my_logger - INFO - Begin to process 246/390 normal samples with index 482
+2025-10-25 13:17:38,800 - my_logger - INFO - sft----0.7311239838600159, rlhf----0.5539643168449402
+2025-10-25 13:17:38,801 - my_logger - INFO - Begin to process 247/390 normal samples with index 486
+2025-10-25 13:17:38,881 - my_logger - INFO - sft----0.6534024477005005, rlhf----0.5443643927574158
+2025-10-25 13:17:38,881 - my_logger - INFO - Begin to process 248/390 normal samples with index 487
+2025-10-25 13:17:38,982 - my_logger - INFO - sft----0.5575321316719055, rlhf----0.5681732892990112
+2025-10-25 13:17:38,982 - my_logger - INFO - Begin to process 249/390 normal samples with index 489
+2025-10-25 13:17:39,085 - my_logger - INFO - sft----0.6112452149391174, rlhf----0.5933979153633118
+2025-10-25 13:17:39,085 - my_logger - INFO - Begin to process 250/390 normal samples with index 491
+2025-10-25 13:17:39,156 - my_logger - INFO - sft----0.662826418876648, rlhf----0.5492764711380005
+2025-10-25 13:17:39,156 - my_logger - INFO - Begin to process 251/390 normal samples with index 492
+2025-10-25 13:17:39,225 - my_logger - INFO - sft----0.5707806348800659, rlhf----0.5550627112388611
+2025-10-25 13:17:39,226 - my_logger - INFO - Begin to process 252/390 normal samples with index 495
+2025-10-25 13:17:39,291 - my_logger - INFO - sft----0.6333333849906921, rlhf----0.5850869417190552
+2025-10-25 13:17:39,291 - my_logger - INFO - Begin to process 253/390 normal samples with index 496
+2025-10-25 13:17:39,396 - my_logger - INFO - sft----0.5516864061355591, rlhf----0.551598846912384
+2025-10-25 13:17:39,396 - my_logger - INFO - Begin to process 254/390 normal samples with index 497
+2025-10-25 13:17:39,491 - my_logger - INFO - sft----0.6345200538635254, rlhf----0.556961178779602
+2025-10-25 13:17:39,491 - my_logger - INFO - Begin to process 255/390 normal samples with index 498
+2025-10-25 13:17:39,560 - my_logger - INFO - sft----0.6230520606040955, rlhf----0.5647432804107666
+2025-10-25 13:17:39,560 - my_logger - INFO - Begin to process 256/390 normal samples with index 499
+2025-10-25 13:17:39,637 - my_logger - INFO - sft----0.5276324152946472, rlhf----0.5450818538665771
+2025-10-25 13:17:39,637 - my_logger - INFO - Begin to process 257/390 normal samples with index 502
+2025-10-25 13:17:39,729 - my_logger - INFO - sft----0.5677874684333801, rlhf----0.5543596744537354
+2025-10-25 13:17:39,729 - my_logger - INFO - Begin to process 258/390 normal samples with index 503
+2025-10-25 13:17:39,863 - my_logger - INFO - sft----0.5784152746200562, rlhf----0.5270524024963379
+2025-10-25 13:17:39,864 - my_logger - INFO - Begin to process 259/390 normal samples with index 507
+2025-10-25 13:17:39,972 - my_logger - INFO - sft----0.5976154804229736, rlhf----0.5130770802497864
+2025-10-25 13:17:39,972 - my_logger - INFO - Begin to process 260/390 normal samples with index 508
+2025-10-25 13:17:40,057 - my_logger - INFO - sft----0.5488418936729431, rlhf----0.49070656299591064
+2025-10-25 13:17:40,057 - my_logger - INFO - Begin to process 261/390 normal samples with index 509
+2025-10-25 13:17:40,122 - my_logger - INFO - sft----0.6154913902282715, rlhf----0.5123052597045898
+2025-10-25 13:17:40,122 - my_logger - INFO - Begin to process 262/390 normal samples with index 511
+2025-10-25 13:17:40,212 - my_logger - INFO - sft----0.5901555418968201, rlhf----0.567070722579956
+2025-10-25 13:17:40,212 - my_logger - INFO - Begin to process 263/390 normal samples with index 512
+2025-10-25 13:17:40,353 - my_logger - INFO - sft----0.6504533290863037, rlhf----0.5506603121757507
+2025-10-25 13:17:40,353 - my_logger - INFO - Begin to process 264/390 normal samples with index 514
+2025-10-25 13:17:40,426 - my_logger - INFO - sft----0.5940147042274475, rlhf----0.5284734964370728
+2025-10-25 13:17:40,426 - my_logger - INFO - Begin to process 265/390 normal samples with index 515
+2025-10-25 13:17:40,504 - my_logger - INFO - sft----0.6571037173271179, rlhf----0.6072771549224854
+2025-10-25 13:17:40,505 - my_logger - INFO - Begin to process 266/390 normal samples with index 516
+2025-10-25 13:17:40,643 - my_logger - INFO - sft----0.595729410648346, rlhf----0.5203093886375427
+2025-10-25 13:17:40,643 - my_logger - INFO - Begin to process 267/390 normal samples with index 517
+2025-10-25 13:17:40,721 - my_logger - INFO - sft----0.6023188829421997, rlhf----0.5188053250312805
+2025-10-25 13:17:40,721 - my_logger - INFO - Begin to process 268/390 normal samples with index 519
+2025-10-25 13:17:40,816 - my_logger - INFO - sft----0.5334567427635193, rlhf----0.509411633014679
+2025-10-25 13:17:40,816 - my_logger - INFO - Begin to process 269/390 normal samples with index 523
+2025-10-25 13:17:40,887 - my_logger - INFO - sft----0.5465776324272156, rlhf----0.5640891194343567
+2025-10-25 13:17:40,887 - my_logger - INFO - Begin to process 270/390 normal samples with index 527
+2025-10-25 13:17:40,954 - my_logger - INFO - sft----0.6790294647216797, rlhf----0.576755166053772
+2025-10-25 13:17:40,954 - my_logger - INFO - Begin to process 271/390 normal samples with index 528
+2025-10-25 13:17:41,021 - my_logger - INFO - sft----0.7717549204826355, rlhf----0.5927602648735046
+2025-10-25 13:17:41,021 - my_logger - INFO - Begin to process 272/390 normal samples with index 529
+2025-10-25 13:17:41,117 - my_logger - INFO - sft----0.5400995016098022, rlhf----0.5601627826690674
+2025-10-25 13:17:41,117 - my_logger - INFO - Begin to process 273/390 normal samples with index 531
+2025-10-25 13:17:41,189 - my_logger - INFO - sft----0.559165894985199, rlhf----0.537662923336029
+2025-10-25 13:17:41,189 - my_logger - INFO - Begin to process 274/390 normal samples with index 532
+2025-10-25 13:17:41,276 - my_logger - INFO - sft----0.616279125213623, rlhf----0.5495055317878723
+2025-10-25 13:17:41,276 - my_logger - INFO - Begin to process 275/390 normal samples with index 533
+2025-10-25 13:17:41,365 - my_logger - INFO - sft----0.5942593216896057, rlhf----0.548537015914917
+2025-10-25 13:17:41,365 - my_logger - INFO - Begin to process 276/390 normal samples with index 534
+2025-10-25 13:17:41,434 - my_logger - INFO - sft----0.6077711582183838, rlhf----0.5915628671646118
+2025-10-25 13:17:41,434 - my_logger - INFO - Begin to process 277/390 normal samples with index 535
+2025-10-25 13:17:41,514 - my_logger - INFO - sft----0.6341477632522583, rlhf----0.627075731754303
+2025-10-25 13:17:41,514 - my_logger - INFO - Begin to process 278/390 normal samples with index 538
+2025-10-25 13:17:41,594 - my_logger - INFO - sft----0.6545585989952087, rlhf----0.5501495003700256
+2025-10-25 13:17:41,594 - my_logger - INFO - Begin to process 279/390 normal samples with index 539
+2025-10-25 13:17:41,682 - my_logger - INFO - sft----0.612637996673584, rlhf----0.531579315662384
+2025-10-25 13:17:41,682 - my_logger - INFO - Begin to process 280/390 normal samples with index 541
+2025-10-25 13:17:41,761 - my_logger - INFO - sft----0.7006775140762329, rlhf----0.5789444446563721
+2025-10-25 13:17:41,761 - my_logger - INFO - Begin to process 281/390 normal samples with index 545
+2025-10-25 13:17:41,827 - my_logger - INFO - sft----0.7662479877471924, rlhf----0.5529195666313171
+2025-10-25 13:17:41,827 - my_logger - INFO - Begin to process 282/390 normal samples with index 546
+2025-10-25 13:17:41,898 - my_logger - INFO - sft----0.6134031414985657, rlhf----0.5616950988769531
+2025-10-25 13:17:41,898 - my_logger - INFO - Begin to process 283/390 normal samples with index 548
+2025-10-25 13:17:41,974 - my_logger - INFO - sft----0.6775894165039062, rlhf----0.5589185953140259
+2025-10-25 13:17:41,975 - my_logger - INFO - Begin to process 284/390 normal samples with index 549
+2025-10-25 13:17:42,042 - my_logger - INFO - sft----0.7064714431762695, rlhf----0.6221984028816223
+2025-10-25 13:17:42,042 - my_logger - INFO - Begin to process 285/390 normal samples with index 550
+2025-10-25 13:17:42,131 - my_logger - INFO - sft----0.6183146834373474, rlhf----0.5688254237174988
+2025-10-25 13:17:42,131 - my_logger - INFO - Begin to process 286/390 normal samples with index 551
+2025-10-25 13:17:42,237 - my_logger - INFO - sft----0.5242729783058167, rlhf----0.5075281262397766
+2025-10-25 13:17:42,237 - my_logger - INFO - Begin to process 287/390 normal samples with index 552
+2025-10-25 13:17:42,310 - my_logger - INFO - sft----0.6469445824623108, rlhf----0.5358423590660095
+2025-10-25 13:17:42,310 - my_logger - INFO - Begin to process 288/390 normal samples with index 554
+2025-10-25 13:17:42,381 - my_logger - INFO - sft----0.5229836702346802, rlhf----0.5334955453872681
+2025-10-25 13:17:42,381 - my_logger - INFO - Begin to process 289/390 normal samples with index 556
+2025-10-25 13:17:42,470 - my_logger - INFO - sft----0.5809834599494934, rlhf----0.5473646521568298
+2025-10-25 13:17:42,470 - my_logger - INFO - Begin to process 290/390 normal samples with index 561
+2025-10-25 13:17:42,579 - my_logger - INFO - sft----0.5520391464233398, rlhf----0.5149645209312439
+2025-10-25 13:17:42,579 - my_logger - INFO - Begin to process 291/390 normal samples with index 565
+2025-10-25 13:17:42,687 - my_logger - INFO - sft----0.5951048731803894, rlhf----0.5278670191764832
+2025-10-25 13:17:42,688 - my_logger - INFO - Begin to process 292/390 normal samples with index 567
+2025-10-25 13:17:42,766 - my_logger - INFO - sft----0.561767578125, rlhf----0.5178133249282837
+2025-10-25 13:17:42,766 - my_logger - INFO - Begin to process 293/390 normal samples with index 572
+2025-10-25 13:17:42,884 - my_logger - INFO - sft----0.5634225010871887, rlhf----0.5288734436035156
+2025-10-25 13:17:42,884 - my_logger - INFO - Begin to process 294/390 normal samples with index 573
+2025-10-25 13:17:43,028 - my_logger - INFO - sft----0.6455227732658386, rlhf----0.5607898831367493
+2025-10-25 13:17:43,028 - my_logger - INFO - Begin to process 295/390 normal samples with index 574
+2025-10-25 13:17:43,108 - my_logger - INFO - sft----0.5666631460189819, rlhf----0.5994505882263184
+2025-10-25 13:17:43,108 - my_logger - INFO - Begin to process 296/390 normal samples with index 576
+2025-10-25 13:17:43,251 - my_logger - INFO - sft----0.5245522856712341, rlhf----0.5489903092384338
+2025-10-25 13:17:43,252 - my_logger - INFO - Begin to process 297/390 normal samples with index 578
+2025-10-25 13:17:43,325 - my_logger - INFO - sft----0.5453172922134399, rlhf----0.5477278828620911
+2025-10-25 13:17:43,325 - my_logger - INFO - Begin to process 298/390 normal samples with index 580
+2025-10-25 13:17:43,437 - my_logger - INFO - sft----0.5892598032951355, rlhf----0.5302882194519043
+2025-10-25 13:17:43,437 - my_logger - INFO - Begin to process 299/390 normal samples with index 581
+2025-10-25 13:17:43,525 - my_logger - INFO - sft----0.5991401076316833, rlhf----0.5463408827781677
+2025-10-25 13:17:43,526 - my_logger - INFO - Begin to process 300/390 normal samples with index 582
+2025-10-25 13:17:43,603 - my_logger - INFO - sft----0.5628180503845215, rlhf----0.510447084903717
+2025-10-25 13:17:43,603 - my_logger - INFO - Begin to process 301/390 normal samples with index 583
+2025-10-25 13:17:43,693 - my_logger - INFO - sft----0.6251611709594727, rlhf----0.5710106492042542
+2025-10-25 13:17:43,693 - my_logger - INFO - Begin to process 302/390 normal samples with index 584
+2025-10-25 13:17:43,792 - my_logger - INFO - sft----0.6430149674415588, rlhf----0.573326587677002
+2025-10-25 13:17:43,793 - my_logger - INFO - Begin to process 303/390 normal samples with index 589
+2025-10-25 13:17:43,880 - my_logger - INFO - sft----0.5603466629981995, rlhf----0.5073155760765076
+2025-10-25 13:17:43,880 - my_logger - INFO - Begin to process 304/390 normal samples with index 591
+2025-10-25 13:17:43,981 - my_logger - INFO - sft----0.6118207573890686, rlhf----0.546893298625946
+2025-10-25 13:17:43,981 - my_logger - INFO - Begin to process 305/390 normal samples with index 593
+2025-10-25 13:17:44,061 - my_logger - INFO - sft----0.6017850637435913, rlhf----0.5352726578712463
+2025-10-25 13:17:44,061 - my_logger - INFO - Begin to process 306/390 normal samples with index 594
+2025-10-25 13:17:44,135 - my_logger - INFO - sft----0.6510319709777832, rlhf----0.5817212462425232
+2025-10-25 13:17:44,135 - my_logger - INFO - Begin to process 307/390 normal samples with index 595
+2025-10-25 13:17:44,221 - my_logger - INFO - sft----0.5830037593841553, rlhf----0.557311475276947
+2025-10-25 13:17:44,221 - my_logger - INFO - Begin to process 308/390 normal samples with index 596
+2025-10-25 13:17:44,299 - my_logger - INFO - sft----0.6312251687049866, rlhf----0.5376045107841492
+2025-10-25 13:17:44,299 - my_logger - INFO - Begin to process 309/390 normal samples with index 599
+2025-10-25 13:17:44,376 - my_logger - INFO - sft----0.6345959305763245, rlhf----0.5203286409378052
+2025-10-25 13:17:44,376 - my_logger - INFO - Begin to process 310/390 normal samples with index 601
+2025-10-25 13:17:44,472 - my_logger - INFO - sft----0.5296745300292969, rlhf----0.4846726953983307
+2025-10-25 13:17:44,472 - my_logger - INFO - Begin to process 311/390 normal samples with index 603
+2025-10-25 13:17:44,544 - my_logger - INFO - sft----0.5005240440368652, rlhf----0.5482484698295593
+2025-10-25 13:17:44,544 - my_logger - INFO - Begin to process 312/390 normal samples with index 605
+2025-10-25 13:17:44,630 - my_logger - INFO - sft----0.5486763119697571, rlhf----0.5214056372642517
+2025-10-25 13:17:44,630 - my_logger - INFO - Begin to process 313/390 normal samples with index 606
+2025-10-25 13:17:44,720 - my_logger - INFO - sft----0.5876591205596924, rlhf----0.5658652186393738
+2025-10-25 13:17:44,720 - my_logger - INFO - Begin to process 314/390 normal samples with index 608
+2025-10-25 13:17:44,786 - my_logger - INFO - sft----0.4963742792606354, rlhf----0.5495620369911194
+2025-10-25 13:17:44,786 - my_logger - INFO - Begin to process 315/390 normal samples with index 609
+2025-10-25 13:17:44,858 - my_logger - INFO - sft----0.517353892326355, rlhf----0.4567278027534485
+2025-10-25 13:17:44,858 - my_logger - INFO - Begin to process 316/390 normal samples with index 611
+2025-10-25 13:17:44,945 - my_logger - INFO - sft----0.576701819896698, rlhf----0.5146896243095398
+2025-10-25 13:17:44,945 - my_logger - INFO - Begin to process 317/390 normal samples with index 612
+2025-10-25 13:17:45,013 - my_logger - INFO - sft----0.5698440074920654, rlhf----0.5283219218254089
+2025-10-25 13:17:45,014 - my_logger - INFO - Begin to process 318/390 normal samples with index 628
+2025-10-25 13:17:45,105 - my_logger - INFO - sft----0.5478695631027222, rlhf----0.47562387585639954
+2025-10-25 13:17:45,105 - my_logger - INFO - Begin to process 319/390 normal samples with index 633
+2025-10-25 13:17:45,173 - my_logger - INFO - sft----0.6356627345085144, rlhf----0.5579761862754822
+2025-10-25 13:17:45,173 - my_logger - INFO - Begin to process 320/390 normal samples with index 638
+2025-10-25 13:17:45,238 - my_logger - INFO - sft----0.7776567339897156, rlhf----0.6485325694084167
+2025-10-25 13:17:45,238 - my_logger - INFO - Begin to process 321/390 normal samples with index 639
+2025-10-25 13:17:45,385 - my_logger - INFO - sft----0.6703512668609619, rlhf----0.5381655097007751
+2025-10-25 13:17:45,385 - my_logger - INFO - Begin to process 322/390 normal samples with index 640
+2025-10-25 13:17:45,448 - my_logger - INFO - sft----0.6894504427909851, rlhf----0.593860387802124
+2025-10-25 13:17:45,449 - my_logger - INFO - Begin to process 323/390 normal samples with index 645
+2025-10-25 13:17:45,546 - my_logger - INFO - sft----0.6403768658638, rlhf----0.5372259616851807
+2025-10-25 13:17:45,546 - my_logger - INFO - Begin to process 324/390 normal samples with index 646
+2025-10-25 13:17:45,643 - my_logger - INFO - sft----0.6484915018081665, rlhf----0.5651461482048035
+2025-10-25 13:17:45,644 - my_logger - INFO - Begin to process 325/390 normal samples with index 648
+2025-10-25 13:17:45,730 - my_logger - INFO - sft----0.5892897248268127, rlhf----0.5253791213035583
+2025-10-25 13:17:45,730 - my_logger - INFO - Begin to process 326/390 normal samples with index 650
+2025-10-25 13:17:45,819 - my_logger - INFO - sft----0.6145265102386475, rlhf----0.5768496990203857
+2025-10-25 13:17:45,819 - my_logger - INFO - Begin to process 327/390 normal samples with index 654
+2025-10-25 13:17:45,888 - my_logger - INFO - sft----0.5840744972229004, rlhf----0.5591039061546326
+2025-10-25 13:17:45,888 - my_logger - INFO - Begin to process 328/390 normal samples with index 659
+2025-10-25 13:17:45,959 - my_logger - INFO - sft----0.5620946884155273, rlhf----0.5237077474594116
+2025-10-25 13:17:45,959 - my_logger - INFO - Begin to process 329/390 normal samples with index 660
+2025-10-25 13:17:46,026 - my_logger - INFO - sft----0.597176194190979, rlhf----0.6351418495178223
+2025-10-25 13:17:46,026 - my_logger - INFO - Begin to process 330/390 normal samples with index 661
+2025-10-25 13:17:46,113 - my_logger - INFO - sft----0.6000633239746094, rlhf----0.5633139610290527
+2025-10-25 13:17:46,114 - my_logger - INFO - Begin to process 331/390 normal samples with index 668
+2025-10-25 13:17:46,180 - my_logger - INFO - sft----0.712338387966156, rlhf----0.49250614643096924
+2025-10-25 13:17:46,181 - my_logger - INFO - Begin to process 332/390 normal samples with index 669
+2025-10-25 13:17:46,250 - my_logger - INFO - sft----0.7068971395492554, rlhf----0.5420579314231873
+2025-10-25 13:17:46,250 - my_logger - INFO - Begin to process 333/390 normal samples with index 671
+2025-10-25 13:17:46,318 - my_logger - INFO - sft----0.5911642909049988, rlhf----0.5765942931175232
+2025-10-25 13:17:46,318 - my_logger - INFO - Begin to process 334/390 normal samples with index 674
+2025-10-25 13:17:46,393 - my_logger - INFO - sft----0.602907657623291, rlhf----0.5809572339057922
+2025-10-25 13:17:46,393 - my_logger - INFO - Begin to process 335/390 normal samples with index 680
+2025-10-25 13:17:46,464 - my_logger - INFO - sft----0.636173665523529, rlhf----0.5383041501045227
+2025-10-25 13:17:46,464 - my_logger - INFO - Begin to process 336/390 normal samples with index 682
+2025-10-25 13:17:46,535 - my_logger - INFO - sft----0.656322717666626, rlhf----0.5204218029975891
+2025-10-25 13:17:46,535 - my_logger - INFO - Begin to process 337/390 normal samples with index 686
+2025-10-25 13:17:46,628 - my_logger - INFO - sft----0.6542617678642273, rlhf----0.5966305136680603
+2025-10-25 13:17:46,628 - my_logger - INFO - Begin to process 338/390 normal samples with index 687
+2025-10-25 13:17:46,700 - my_logger - INFO - sft----0.5499507784843445, rlhf----0.5609906315803528
+2025-10-25 13:17:46,700 - my_logger - INFO - Begin to process 339/390 normal samples with index 689
+2025-10-25 13:17:46,808 - my_logger - INFO - sft----0.6588013768196106, rlhf----0.5627712607383728
+2025-10-25 13:17:46,809 - my_logger - INFO - Begin to process 340/390 normal samples with index 691
+2025-10-25 13:17:46,881 - my_logger - INFO - sft----0.6064586043357849, rlhf----0.5655404925346375
+2025-10-25 13:17:46,881 - my_logger - INFO - Begin to process 341/390 normal samples with index 692
+2025-10-25 13:17:46,950 - my_logger - INFO - sft----0.6287534832954407, rlhf----0.5657457709312439
+2025-10-25 13:17:46,950 - my_logger - INFO - Begin to process 342/390 normal samples with index 695
+2025-10-25 13:17:47,042 - my_logger - INFO - sft----0.5433140993118286, rlhf----0.5221679210662842
+2025-10-25 13:17:47,042 - my_logger - INFO - Begin to process 343/390 normal samples with index 706
+2025-10-25 13:17:47,120 - my_logger - INFO - sft----0.5430610775947571, rlhf----0.524293065071106
+2025-10-25 13:17:47,120 - my_logger - INFO - Begin to process 344/390 normal samples with index 708
+2025-10-25 13:17:47,264 - my_logger - INFO - sft----0.6762768030166626, rlhf----0.5161662101745605
+2025-10-25 13:17:47,264 - my_logger - INFO - Begin to process 345/390 normal samples with index 709
+2025-10-25 13:17:47,408 - my_logger - INFO - sft----0.6498196125030518, rlhf----0.5483479499816895
+2025-10-25 13:17:47,408 - my_logger - INFO - Begin to process 346/390 normal samples with index 710
+2025-10-25 13:17:47,496 - my_logger - INFO - sft----0.5420471429824829, rlhf----0.5109562873840332
+2025-10-25 13:17:47,496 - my_logger - INFO - Begin to process 347/390 normal samples with index 715
+2025-10-25 13:17:47,568 - my_logger - INFO - sft----0.6353521943092346, rlhf----0.5576779842376709
+2025-10-25 13:17:47,568 - my_logger - INFO - Begin to process 348/390 normal samples with index 721
+2025-10-25 13:17:47,647 - my_logger - INFO - sft----0.6260827779769897, rlhf----0.5657241344451904
+2025-10-25 13:17:47,647 - my_logger - INFO - Begin to process 349/390 normal samples with index 723
+2025-10-25 13:17:47,712 - my_logger - INFO - sft----0.8749472498893738, rlhf----0.6073542833328247
+2025-10-25 13:17:47,713 - my_logger - INFO - Begin to process 350/390 normal samples with index 725
+2025-10-25 13:17:47,804 - my_logger - INFO - sft----0.5707244277000427, rlhf----0.535270094871521
+2025-10-25 13:17:47,805 - my_logger - INFO - Begin to process 351/390 normal samples with index 726
+2025-10-25 13:17:47,884 - my_logger - INFO - sft----0.5664202570915222, rlhf----0.47511109709739685
+2025-10-25 13:17:47,884 - my_logger - INFO - Begin to process 352/390 normal samples with index 727
+2025-10-25 13:17:47,974 - my_logger - INFO - sft----0.5910054445266724, rlhf----0.5359504818916321
+2025-10-25 13:17:47,974 - my_logger - INFO - Begin to process 353/390 normal samples with index 728
+2025-10-25 13:17:48,065 - my_logger - INFO - sft----0.5940660238265991, rlhf----0.5751567482948303
+2025-10-25 13:17:48,065 - my_logger - INFO - Begin to process 354/390 normal samples with index 729
+2025-10-25 13:17:48,143 - my_logger - INFO - sft----0.5546956062316895, rlhf----0.5318431258201599
+2025-10-25 13:17:48,143 - my_logger - INFO - Begin to process 355/390 normal samples with index 730
+2025-10-25 13:17:48,231 - my_logger - INFO - sft----0.5539465546607971, rlhf----0.49790138006210327
+2025-10-25 13:17:48,231 - my_logger - INFO - Begin to process 356/390 normal samples with index 731
+2025-10-25 13:17:48,320 - my_logger - INFO - sft----0.5877194404602051, rlhf----0.5320214629173279
+2025-10-25 13:17:48,320 - my_logger - INFO - Begin to process 357/390 normal samples with index 732
+2025-10-25 13:17:48,400 - my_logger - INFO - sft----0.5628635287284851, rlhf----0.5485404133796692
+2025-10-25 13:17:48,400 - my_logger - INFO - Begin to process 358/390 normal samples with index 733
+2025-10-25 13:17:48,477 - my_logger - INFO - sft----0.5402849912643433, rlhf----0.5296852588653564
+2025-10-25 13:17:48,478 - my_logger - INFO - Begin to process 359/390 normal samples with index 734
+2025-10-25 13:17:48,564 - my_logger - INFO - sft----0.5962012410163879, rlhf----0.5619915723800659
+2025-10-25 13:17:48,564 - my_logger - INFO - Begin to process 360/390 normal samples with index 736
+2025-10-25 13:17:48,661 - my_logger - INFO - sft----0.5748611688613892, rlhf----0.5510327816009521
+2025-10-25 13:17:48,661 - my_logger - INFO - Begin to process 361/390 normal samples with index 737
+2025-10-25 13:17:48,741 - my_logger - INFO - sft----0.5436683893203735, rlhf----0.5196980834007263
+2025-10-25 13:17:48,741 - my_logger - INFO - Begin to process 362/390 normal samples with index 738
+2025-10-25 13:17:48,832 - my_logger - INFO - sft----0.6048496961593628, rlhf----0.5594017505645752
+2025-10-25 13:17:48,832 - my_logger - INFO - Begin to process 363/390 normal samples with index 739
+2025-10-25 13:17:48,928 - my_logger - INFO - sft----0.5798022150993347, rlhf----0.535570502281189
+2025-10-25 13:17:48,929 - my_logger - INFO - Begin to process 364/390 normal samples with index 740
+2025-10-25 13:17:49,027 - my_logger - INFO - sft----0.5284352898597717, rlhf----0.494191437959671
+2025-10-25 13:17:49,027 - my_logger - INFO - Begin to process 365/390 normal samples with index 741
+2025-10-25 13:17:49,107 - my_logger - INFO - sft----0.5374817848205566, rlhf----0.5470806956291199
+2025-10-25 13:17:49,107 - my_logger - INFO - Begin to process 366/390 normal samples with index 742
+2025-10-25 13:17:49,209 - my_logger - INFO - sft----0.5959276556968689, rlhf----0.542361855506897
+2025-10-25 13:17:49,209 - my_logger - INFO - Begin to process 367/390 normal samples with index 743
+2025-10-25 13:17:49,309 - my_logger - INFO - sft----0.5643694400787354, rlhf----0.5257032513618469
+2025-10-25 13:17:49,309 - my_logger - INFO - Begin to process 368/390 normal samples with index 744
+2025-10-25 13:17:49,398 - my_logger - INFO - sft----0.586717963218689, rlhf----0.5509595274925232
+2025-10-25 13:17:49,398 - my_logger - INFO - Begin to process 369/390 normal samples with index 753
+2025-10-25 13:17:49,480 - my_logger - INFO - sft----0.5599930882453918, rlhf----0.5292496681213379
+2025-10-25 13:17:49,480 - my_logger - INFO - Begin to process 370/390 normal samples with index 757
+2025-10-25 13:17:49,568 - my_logger - INFO - sft----0.5875237584114075, rlhf----0.5686073303222656
+2025-10-25 13:17:49,568 - my_logger - INFO - Begin to process 371/390 normal samples with index 759
+2025-10-25 13:17:49,656 - my_logger - INFO - sft----0.5882174968719482, rlhf----0.5213965177536011
+2025-10-25 13:17:49,656 - my_logger - INFO - Begin to process 372/390 normal samples with index 760
+2025-10-25 13:17:49,746 - my_logger - INFO - sft----0.5670737028121948, rlhf----0.5601537227630615
+2025-10-25 13:17:49,746 - my_logger - INFO - Begin to process 373/390 normal samples with index 762
+2025-10-25 13:17:49,837 - my_logger - INFO - sft----0.5877903699874878, rlhf----0.5609755516052246
+2025-10-25 13:17:49,837 - my_logger - INFO - Begin to process 374/390 normal samples with index 774
+2025-10-25 13:17:49,916 - my_logger - INFO - sft----0.5667992234230042, rlhf----0.5606476068496704
+2025-10-25 13:17:49,916 - my_logger - INFO - Begin to process 375/390 normal samples with index 787
+2025-10-25 13:17:50,002 - my_logger - INFO - sft----0.5851454734802246, rlhf----0.5398555397987366
+2025-10-25 13:17:50,002 - my_logger - INFO - Begin to process 376/390 normal samples with index 788
+2025-10-25 13:17:50,090 - my_logger - INFO - sft----0.5935437679290771, rlhf----0.5384292602539062
+2025-10-25 13:17:50,090 - my_logger - INFO - Begin to process 377/390 normal samples with index 789
+2025-10-25 13:17:50,183 - my_logger - INFO - sft----0.5820346474647522, rlhf----0.5330101847648621
+2025-10-25 13:17:50,184 - my_logger - INFO - Begin to process 378/390 normal samples with index 790
+2025-10-25 13:17:50,279 - my_logger - INFO - sft----0.6082472801208496, rlhf----0.5534548759460449
+2025-10-25 13:17:50,279 - my_logger - INFO - Begin to process 379/390 normal samples with index 791
+2025-10-25 13:17:50,370 - my_logger - INFO - sft----0.5764403343200684, rlhf----0.5561023950576782
+2025-10-25 13:17:50,370 - my_logger - INFO - Begin to process 380/390 normal samples with index 792
+2025-10-25 13:17:50,434 - my_logger - INFO - sft----0.5878589153289795, rlhf----0.5616748929023743
+2025-10-25 13:17:50,434 - my_logger - INFO - Begin to process 381/390 normal samples with index 794
+2025-10-25 13:17:50,503 - my_logger - INFO - sft----0.6169115900993347, rlhf----0.5944304466247559
+2025-10-25 13:17:50,503 - my_logger - INFO - Begin to process 382/390 normal samples with index 795
+2025-10-25 13:17:50,604 - my_logger - INFO - sft----0.6107236742973328, rlhf----0.5504856109619141
+2025-10-25 13:17:50,604 - my_logger - INFO - Begin to process 383/390 normal samples with index 797
+2025-10-25 13:17:50,709 - my_logger - INFO - sft----0.6343631744384766, rlhf----0.5807121396064758
+2025-10-25 13:17:50,709 - my_logger - INFO - Begin to process 384/390 normal samples with index 798
+2025-10-25 13:17:50,788 - my_logger - INFO - sft----0.5924704670906067, rlhf----0.5473076701164246
+2025-10-25 13:17:50,788 - my_logger - INFO - Begin to process 385/390 normal samples with index 799
+2025-10-25 13:17:50,866 - my_logger - INFO - sft----0.6113673448562622, rlhf----0.5513855814933777
+2025-10-25 13:17:50,866 - my_logger - INFO - Begin to process 386/390 normal samples with index 800
+2025-10-25 13:17:50,970 - my_logger - INFO - sft----0.577031135559082, rlhf----0.5488278865814209
+2025-10-25 13:17:50,970 - my_logger - INFO - Begin to process 387/390 normal samples with index 801
+2025-10-25 13:17:51,084 - my_logger - INFO - sft----0.6004533171653748, rlhf----0.5539577007293701
+2025-10-25 13:17:51,084 - my_logger - INFO - Begin to process 388/390 normal samples with index 802
+2025-10-25 13:17:51,201 - my_logger - INFO - sft----0.5634363889694214, rlhf----0.5468325614929199
+2025-10-25 13:17:51,201 - my_logger - INFO - Begin to process 389/390 normal samples with index 803
+2025-10-25 13:17:51,337 - my_logger - INFO - sft----0.5753960013389587, rlhf----0.5700899958610535

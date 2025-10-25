@@ -1,0 +1,21 @@
+{
+    "root_dir": "/path/to/alignment_data/stage3/train_prompt",
+    "output_shffle": "True",
+    "cache_dir": "/mnt/data/temp/cache",
+    "need_scores": "False",
+    "full-hh-rlhf": {
+        "ratio": 1,
+        "datasets": {
+            "Anthropic_HH_train_harmless.jsonl": {
+                "max_num": 37208,
+                "ratio": 1
+            },
+            "Anthropic_HH_train_helpful.jsonl": {
+                "max_num": 35080,
+                "ratio": 1
+            }
+        },
+        "type_shuffle": "True",
+        "max_num": 72288
+    }
+}
