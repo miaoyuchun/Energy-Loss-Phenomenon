@@ -21,10 +21,10 @@ python ./Energy_Loss_Phenomenon_Demo/llama_avg_energyloss_last_layer.py \
 ```
 
 * `rlhf_model_path` and `sft_model_path` refer to the checkpoints of the RLHF and SFT models, respectively.
-  We provide an example using **Llama2-7B** model weights available at [XXXX](#).
-* The corresponding **responses** on the *AlpacaFarm* dataset are provided in
+  We provide an example using Llama2-7B model weights available at [XXXX](#).
+* The corresponding responses on the AlpacaFarm dataset are provided in
   `Energy_Loss_Phenomenon_Demo/response_new.jsonl`,
-  and the associated **reward hacking labels** are available in
+  and the associated reward hacking labels are available in
   `Energy_Loss_Phenomenon_Demo/hacking_label_new.json`.
 
 
@@ -40,10 +40,10 @@ bash training/step3_rlhf_finetuning/slurm_scripts_miao/ppo_llama2.sh
 bash training/step3_rlhf_finetuning/slurm_scripts_miao/eppo_llama2.sh
 ```
 
-* Before running the above commands, please replace `WORKSPACE`, `actor_model`, `critic_model`, and `recipes` with the corresponding **project path**, **SFT model path**, **RM model path**, and **dataset path**, respectively.
+* Before running the above commands, please replace `WORKSPACE`, `actor_model`, `critic_model`, and `recipes` with the corresponding project path, SFT model path, RM model path, and dataset path, respectively.
 * The core implementation of the algorithm can be found in
-  `training/step3_rlhf_finetuning/ppo_trainer.py`, specifically from **Line 346 to Line 365**.
-* To efficiently compute the **energy loss** of training prompts under the SFT model during the RLHF process, we additionally deploy a separate **SFT model**.
+  `training/step3_rlhf_finetuning/ppo_trainer.py`, specifically from Line 346 to Line 365.
+* To efficiently compute the energy loss of training prompts under the SFT model during the RLHF process, we additionally deploy a separate SFT model.
   The related deployment code is provided under the `lmdeploy_deploy/` directory.
 
 ## Citation
