@@ -21,7 +21,7 @@ python ./Energy_Loss_Phenomenon_Demo/llama_avg_energyloss_last_layer.py \
 ```
 
 * `rlhf_model_path` and `sft_model_path` refer to the checkpoints of the RLHF and SFT models, respectively.
-  We provide an example using Llama2-7B model weights available at [XXXX](#).
+  We provide an example using Llama2-7B model weights available at [Hungingface](https://huggingface.co/mycccc/Energy-Loss-Phenomenon-Demo).
 * The corresponding responses on the AlpacaFarm dataset are provided in
   `Energy_Loss_Phenomenon_Demo/response_new.jsonl`,
   and the associated reward hacking labels are available in
